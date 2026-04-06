@@ -36,7 +36,6 @@
 
 # volumes:
 #   mongo_data: {}
-version: "3.9"  # Use the latest stable Compose file version
 
 
 
