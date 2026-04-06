@@ -27,7 +27,7 @@ exports.getTransactions = async (req, res) => {
     let query = { userId };
     if (category && category !== 'All') query.category = category;
 
-    const transactions = await Transaction.find(query).sort({ date: -1 });
+    const transactions = await Transaction.findAll(query);
     res.status(200).json({ success: true, data: transactions });
   } catch (err) {
     res.status(500).json({ error: err.message });
@@ -39,9 +39,7 @@ exports.getRecentTransaction = async (req, res) => {
   try {
     const { userId } = req.query;
     if (!userId) return res.status(400).json({ error: 'Missing userId' });
-    const transactions = await Transaction.find({ userId })
-      .sort({ date: -1 })
-      .limit(5);
+    const transactions = await Transaction.findAll({ userId, limit: 5 });
 
     res.status(200).json({ success: true, data: transactions });
   } catch (err) {
@@ -94,7 +92,7 @@ exports.syncGmail = async (req, res) => {
         if (!parsed.amount) continue;
 
         // ✅ Deduplication before enqueue
-        const exists = await Transaction.exists({ referenceNumber: parsed.referenceNumber });
+        const exists = await Transaction.existsByReferenceNumber(parsed.referenceNumber);
         if (!exists) {
           await publishToQueue('email-transactions', {
             userId,

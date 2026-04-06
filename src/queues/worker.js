@@ -1,5 +1,4 @@
 require('dotenv').config();
-const mongoose = require('mongoose');
 const Transaction = require('../models/Transaction');
 const nlpService = require('../services/nlpService');
 const connectDB = require('../config/db');
@@ -32,14 +31,13 @@ async function startConsumers(channel) {
         category = await nlpService.predictCategory(description);
       } catch { }
 
-      const newTxn = new Transaction({
+      const newTxn = await Transaction.create({
         userId,
         description,
         amount,
         category,
         source: 'voice',
       });
-      await newTxn.save();
 
       console.log('✅ Saved voice txn:', newTxn._id);
       channel.ack(msg);
@@ -59,14 +57,13 @@ async function startConsumers(channel) {
         category = await nlpService.predictCategory(description);
       } catch { }
 
-      const newTxn = new Transaction({
+      const newTxn = await Transaction.create({
         userId,
         description,
         amount,
         category,
         source: 'manual',
       });
-      await newTxn.save();
 
       console.log('✅ Saved manual txn:', newTxn._id);
       channel.ack(msg);
@@ -125,14 +122,9 @@ async function startConsumers(channel) {
 
       let savedTxn;
       if (parsed.referenceNumber) {
-        savedTxn = await Transaction.findOneAndUpdate(
-          { referenceNumber: parsed.referenceNumber },
-          txnData,
-          { upsert: true, new: true, setDefaultsOnInsert: true }
-        );
+        savedTxn = await Transaction.upsertByReferenceNumber(parsed.referenceNumber, txnData);
       } else {
-        savedTxn = new Transaction(txnData);
-        await savedTxn.save();
+        savedTxn = await Transaction.create(txnData);
       }
       console.log('✅ Saved email txn:', savedTxn._id);
       channel.ack(msg);

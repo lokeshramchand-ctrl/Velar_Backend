@@ -13,7 +13,10 @@
 #       GOOGLE_CLIENT_ID: ${GOOGLE_CLIENT_ID}
 #       GOOGLE_CLIENT_SECRET: ${GOOGLE_CLIENT_SECRET}
 #       GOOGLE_REDIRECT_URI: ${GOOGLE_REDIRECT_URI}
-#       MONGO_URI: ${MONGO_URI}
+#       MSSQL_USER: ${MSSQL_USER}
+#       MSSQL_PASSWORD: ${MSSQL_PASSWORD}
+#       MSSQL_SERVER: ${MSSQL_SERVER}
+#       MSSQL_DATABASE: ${MSSQL_DATABASE}
 #       PORT: ${PORT}
 #     depends_on:
 #       - nlpservice
@@ -122,6 +125,4 @@ services:
 
 # ==============================
 
-volumes:
-
-  mongo_data: {}
+volumes: {}
