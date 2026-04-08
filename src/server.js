@@ -10,10 +10,10 @@ const HOST = process.env.HOST || '0.0.0.0';
     await connectDB();
 
     app.listen(PORT, HOST, () => {
-      console.log(`🚀 Server running on http://${HOST}:${PORT}`);
+      console.log(`Server running on http://${HOST}:${PORT}`);
     });
   } catch (err) {
-    console.error('❌ Server startup failed:', err.message);
+    console.error('Server startup failed:', err.message);
     process.exit(1);
   }
 })();
