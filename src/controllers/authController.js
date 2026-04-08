@@ -1,9 +1,7 @@
-const { OAuth2Client } = require('google-auth-library');
 const bcrypt = require('bcryptjs');
 const User = require('../models/User');
 const { signAuthToken } = require('../utils/jwt');
-
-const client = new OAuth2Client(process.env.GOOGLE_CLIENT_ID);
+const { upsertGoogleUser } = require('../services/google/googleAuthService');
 
 function buildAuthResponse(user) {
   const token = signAuthToken(user);
@@ -78,26 +76,4 @@ exports.getCurrentUser = async (req, res) => {
     success: true,
     user: req.user,
   });
-};
-
-exports.googleTokenLogin = async (req, res) => {
-  try {
-    const { idToken } = req.body;
-    const ticket = await client.verifyIdToken({
-      idToken,
-      audience: process.env.GOOGLE_CLIENT_ID,
-    });
-
-    const payload = ticket.getPayload();
-    const user = await User.upsertGoogleUser({
-      googleId: payload.sub,
-      displayName: payload.name,
-      email: payload.email,
-      photo: payload.picture,
-    });
-
-    res.json(buildAuthResponse(user));
-  } catch (err) {
-    res.status(401).json({ error: 'Invalid token', details: err.message });
-  }
 };

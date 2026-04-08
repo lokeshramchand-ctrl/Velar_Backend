@@ -1,8 +1,8 @@
 const Transaction = require('../models/Transaction');
 const { publishToQueue } = require('../config/rabbitmq');
 const { bankRules } = require('../utils/bankRules');
-const { fetchBankEmails } = require('../services/gmailService');
-const { parseBankMessage } = require('../utils/parser');
+const { fetchBankEmails } = require('../services/google/gmailService');
+const { parseBankMessage } = require('../services/google/gmailParser');
 
 exports.addTransaction = async (req, res) => {
   try {
