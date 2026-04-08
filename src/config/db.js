@@ -217,10 +217,10 @@ async function getPool() {
 async function connectDB() {
   try {
     const pool = await getPool();
-    console.log('MSSQL connected successfully');
+    console.log('Database connection established successfully.');
     return pool;
   } catch (err) {
-    console.error('MSSQL connection error:', err.message);
+    console.error('Database connection error:', err.message);
     throw err;
   }
 }

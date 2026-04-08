@@ -15,17 +15,17 @@ async function connectRabbit() {
     });
 
     connection.on('error', (err) => {
-      console.error('🐇 RabbitMQ connection error:', err.message);
+      console.error('RabbitMQ connection error:', err.message);
     });
 
     connection.on('close', () => {
-      console.error('🐇 RabbitMQ connection closed. Retrying...');
+      console.error('RabbitMQ connection closed. Retrying...');
       channel = null; // reset channel
       setTimeout(connectRabbit, 5000); // retry after 5s
     });
 
     channel = await connection.createChannel();
-    console.log('✅ Connected to RabbitMQ');
+    console.log('RabbitMQ connection established successfully.');
 
     // declare queues (idempotent)
     await channel.assertQueue('manual-transactions', { durable: true });
@@ -34,7 +34,7 @@ async function connectRabbit() {
 
     return channel;
   } catch (err) {
-    console.error('❌ RabbitMQ connect failed:', err.message);
+    console.error('RabbitMQ connection failed:', err.message);
     setTimeout(connectRabbit, 5000); // retry after 5s
   }
 }
@@ -42,14 +42,14 @@ async function connectRabbit() {
 async function publishToQueue(queue, msg) {
   const ch = await connectRabbit();
   if (!ch) {
-    console.error('⚠️ No RabbitMQ channel available right now, dropping message.');
+    console.error('No RabbitMQ channel available currently, message dropped.');
     return;
   }
 
   await ch.assertQueue(queue, { durable: true });
   ch.sendToQueue(queue, Buffer.from(JSON.stringify(msg)), { persistent: true });
 
-  console.log(`📩 Job sent to queue "${queue}":`, msg);
+  console.log(`Job successfully sent to queue "${queue}":`, msg);
 }
 
 module.exports = { connectRabbit, publishToQueue };

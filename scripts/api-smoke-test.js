@@ -104,9 +104,9 @@ function printReport(baseUrl, emailUnderTest) {
   const passed = results.filter((result) => result.status === 'PASS').length;
   const failed = results.length - passed;
 
-  console.log('\nAPI smoke test report');
+  console.log('\nAPI Smoke Test Report');
   console.log(`Base URL: ${baseUrl}`);
-  console.log(`Test user: ${emailUnderTest}`);
+  console.log(`Test User: ${emailUnderTest}`);
   console.log('');
 
   for (const result of results) {
@@ -115,7 +115,7 @@ function printReport(baseUrl, emailUnderTest) {
   }
 
   console.log('');
-  console.log(`Summary: ${passed} passed, ${failed} failed, ${results.length} total`);
+  console.log(`Summary: ${passed} tests passed, ${failed} tests failed, ${results.length} total tests.`);
   console.log('');
   console.log('Notes:');
   console.log('- Queue-based transaction endpoints only confirm the API accepted the job. They do not prove a worker consumed and saved the transaction.');

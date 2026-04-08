@@ -6,7 +6,7 @@ const { connectRabbit } = require('../config/rabbitmq');
 
 
 async function startConsumers(channel) {
-  console.log('👂 Worker listening for queues...');
+  console.log('Worker is now listening for queues.');
 
   // ---- VOICE ----
   await channel.consume('voice-transactions', async (msg) => {
@@ -39,10 +39,10 @@ async function startConsumers(channel) {
         source: 'voice',
       });
 
-      console.log('✅ Saved voice txn:', newTxn._id);
+      console.log('Voice transaction saved successfully:', newTxn._id);
       channel.ack(msg);
     } catch (err) {
-      console.error('❌ Voice txn failed:', err.message);
+      console.error('Voice transaction processing failed:', err.message);
       channel.nack(msg, false, false);
     }
   });
@@ -65,10 +65,10 @@ async function startConsumers(channel) {
         source: 'manual',
       });
 
-      console.log('✅ Saved manual txn:', newTxn._id);
+      console.log('Manual transaction saved successfully:', newTxn._id);
       channel.ack(msg);
     } catch (err) {
-      console.error('❌ Manual txn failed:', err.message);
+      console.error('Manual transaction processing failed:', err.message);
       channel.nack(msg, false, false);
     }
   });
@@ -126,10 +126,10 @@ async function startConsumers(channel) {
       } else {
         savedTxn = await Transaction.create(txnData);
       }
-      console.log('✅ Saved email txn:', savedTxn._id);
+      console.log('Email transaction saved successfully:', savedTxn._id);
       channel.ack(msg);
     } catch (err) {
-      console.error('❌ Email txn failed:', err.message);
+      console.error('Email transaction processing failed:', err.message);
       channel.nack(msg, false, false);
     }
   });
