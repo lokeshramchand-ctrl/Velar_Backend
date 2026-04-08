@@ -30,7 +30,6 @@ async function connectRabbit() {
     // declare queues (idempotent)
     await channel.assertQueue('manual-transactions', { durable: true });
     await channel.assertQueue('voice-transactions', { durable: true });
-    await channel.assertQueue('email-transactions', { durable: true });
 
     return channel;
   } catch (err) {

@@ -72,67 +72,6 @@ async function startConsumers(channel) {
       channel.nack(msg, false, false);
     }
   });
-
-  // ---- EMAIL ----
-  await channel.consume('email-transactions', async (msg) => {
-    if (!msg) return;
-    const { userId, parsed, from } = JSON.parse(msg.content.toString());
-
-    try {
-      let category = 'Other';
-      try {
-        category = await nlpService.predictCategory(parsed.vendor || 'Unknown');
-      } catch { }
-      // ✅ Safe date parsing
-      let dateValue = new Date();
-      if (parsed.date) {
-        // Try parsing dd-mm-yy (like 17-09-25)
-        const match = parsed.date.match(/^(\d{2})-(\d{2})-(\d{2})$/);
-        if (match) {
-          const [_, day, month, year] = match;
-          // Prefix 20 for yy → yyyy
-          const isoDate = `20${year}-${month}-${day}`;
-          const tempDate = new Date(isoDate);
-          if (!isNaN(tempDate.getTime())) {
-            dateValue = tempDate;
-          } else {
-            console.warn(`⚠️ Still invalid date after parse "${parsed.date}", defaulting to now`);
-          }
-        } else {
-          const tempDate = new Date(parsed.date);
-          if (!isNaN(tempDate.getTime())) {
-            dateValue = tempDate;
-          } else {
-            console.warn(`⚠️ Invalid parsed date "${parsed.date}", defaulting to now`);
-          }
-        }
-      }
-      const txnData = {
-        userId,
-        description: parsed.vendor || 'Unknown Vendor',
-        amount: parsed.amount,
-        type: parsed.type || 'unknown',
-        date: dateValue,
-        vendor: parsed.vendor,
-        category,
-        source: 'email',
-        bank: from,
-        referenceNumber: parsed.referenceNumber,
-      };
-
-      let savedTxn;
-      if (parsed.referenceNumber) {
-        savedTxn = await Transaction.upsertByReferenceNumber(parsed.referenceNumber, txnData);
-      } else {
-        savedTxn = await Transaction.create(txnData);
-      }
-      console.log('Email transaction saved successfully:', savedTxn._id);
-      channel.ack(msg);
-    } catch (err) {
-      console.error('Email transaction processing failed:', err.message);
-      channel.nack(msg, false, false);
-    }
-  });
 }
 
 (

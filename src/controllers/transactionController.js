@@ -1,7 +1,6 @@
 const Transaction = require('../models/Transaction');
 const { publishToQueue } = require('../config/rabbitmq');
 const { bankRules } = require('../utils/bankRules');
-const { fetchBankEmails } = require('../services/google/gmailService');
 const { parseBankMessage } = require('../services/google/gmailParser');
 
 exports.addTransaction = async (req, res) => {
@@ -60,64 +59,5 @@ exports.voiceTransaction = async (req, res) => {
   } catch (err) {
     console.error('Voice transaction queue error:', err);
     res.status(500).json({ error: 'Failed to queue transaction' });
-  }
-}
-
-exports.syncGmail = async (req, res) => {
-  try {
-    const { accessToken, userId } = req.body;
-    if (!accessToken) return res.status(400).json({ error: "Missing access token" });
-    if (!userId) return res.status(400).json({ error: "Missing userId" });
-
-    const bankEmails = bankRules.map(b => b.email);
-
-    let emails;
-    try {
-      emails = await fetchBankEmails(accessToken, bankEmails);
-    } catch (err) {
-      console.error('❌ Gmail fetch error:', err);
-      return res.status(500).json({ error: 'Failed to fetch Gmail messages' });
-    }
-
-    if (!emails?.length) {
-      return res.json({ success: true, count: 0, queued: 0 });
-    }
-
-    let queued = 0;
-    let skipped = 0;
-
-    for (const email of emails) {
-      try {
-        const parsed = parseBankMessage(email.snippet);
-        if (!parsed.amount) continue;
-
-        // ✅ Deduplication before enqueue
-        const exists = await Transaction.existsByReferenceNumber(parsed.referenceNumber);
-        if (!exists) {
-          await publishToQueue('email-transactions', {
-            userId,
-            parsed,
-            from: email.from,
-          });
-          queued++;
-        } else {
-          console.log(`Skipped duplicate transaction reference: ${parsed.referenceNumber}`);
-        }
-      } catch (err) {
-        console.error('Parse error:', err.message, 'Snippet:', email.snippet);
-      }
-    }
-
-
-    return res.json({
-      success: true,
-      count: emails.length,
-      queued,
-      skipped
-    });
-
-  } catch (error) {
-    console.error('Unexpected sync error:', error);
-    return res.status(500).json({ error: 'Unexpected sync error' });
   }
 };
