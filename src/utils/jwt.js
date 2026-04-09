@@ -1,29 +1,13 @@
 const jwt = require('jsonwebtoken');
 
-function getJwtSecret() {
-  if (!process.env.JWT_SECRET) {
-    throw new Error('JWT_SECRET is not configured');
-  }
+exports.signAccessToken = (payload) => {
+  return jwt.sign(payload, process.env.JWT_SECRET, {
+    expiresIn: '15m',
+  });
+};
 
-  return process.env.JWT_SECRET;
-}
-
-function signAuthToken(user) {
-  return jwt.sign(
-    {
-      sub: user.id || user._id,
-      email: user.email || null,
-    },
-    getJwtSecret(),
-    { expiresIn: '7d' }
-  );
-}
-
-function verifyAuthToken(token) {
-  return jwt.verify(token, getJwtSecret());
-}
-
-module.exports = {
-  signAuthToken,
-  verifyAuthToken,
+exports.signRefreshToken = (payload) => {
+  return jwt.sign(payload, process.env.JWT_SECRET, {
+    expiresIn: '7d',
+  });
 };

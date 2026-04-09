@@ -10,49 +10,34 @@ async function findById(id) {
   return mapUser(result.recordset[0]);
 }
 
-async function findByEmail(email) {
+async function findByDisplayName(displayName) {
   const pool = await getPool();
   const result = await pool.request()
-    .input('email', sql.NVarChar(255), email)
-    .query('SELECT TOP (1) * FROM [dbo].[Users] WHERE [email] = @email;');
+    .input('displayName', sql.NVarChar(255), displayName)
+    .query(`
+      SELECT TOP (1) * 
+      FROM [dbo].[Users] 
+      WHERE [displayName] = @displayName;
+    `);
 
   return result.recordset[0] || null;
 }
 
-async function createLocalUser({ displayName, email, passwordHash }) {
+async function createLocalUser({ displayName, passwordHash }) {
   const pool = await getPool();
-  const existingUser = await findByEmail(email);
 
+  const existingUser = await findByDisplayName(displayName);
   if (existingUser) {
-    if (existingUser.passwordHash) {
-      throw new Error('User already exists with local authentication');
-    }
-
-    const result = await pool.request()
-      .input('id', sql.UniqueIdentifier, existingUser.id)
-      .input('displayName', sql.NVarChar(255), displayName || existingUser.displayName || null)
-      .input('passwordHash', sql.NVarChar(255), passwordHash)
-      .query(`
-        UPDATE [dbo].[Users]
-        SET
-          [displayName] = @displayName,
-          [passwordHash] = @passwordHash,
-          [authProvider] = CASE WHEN [googleId] IS NOT NULL THEN 'both' ELSE 'local' END
-        OUTPUT inserted.*
-        WHERE [id] = @id;
-      `);
-
-    return mapUser(result.recordset[0]);
+    throw new Error('Username already exists');
   }
 
   const result = await pool.request()
-    .input('displayName', sql.NVarChar(255), displayName || null)
-    .input('email', sql.NVarChar(255), email)
+    .input('displayName', sql.NVarChar(255), displayName)
     .input('passwordHash', sql.NVarChar(255), passwordHash)
     .query(`
-      INSERT INTO [dbo].[Users] ([displayName], [email], [passwordHash], [authProvider])
+      INSERT INTO [dbo].[Users] ([displayName], [passwordHash])
       OUTPUT inserted.*
-      VALUES (@displayName, @email, @passwordHash, 'local');
+      VALUES (@displayName, @passwordHash);
     `);
 
   return mapUser(result.recordset[0]);
@@ -60,6 +45,6 @@ async function createLocalUser({ displayName, email, passwordHash }) {
 
 module.exports = {
   findById,
-  findByEmail,
+  findByDisplayName,
   createLocalUser,
 };
