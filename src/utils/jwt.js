@@ -13,7 +13,6 @@ function signAuthToken(user) {
     {
       sub: user.id || user._id,
       email: user.email || null,
-      authProvider: user.authProvider || 'local',
     },
     getJwtSecret(),
     { expiresIn: '7d' }

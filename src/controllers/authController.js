@@ -1,7 +1,6 @@
 const bcrypt = require('bcryptjs');
 const User = require('../models/User');
 const { signAuthToken } = require('../utils/jwt');
-const { upsertGoogleUser } = require('../services/google/googleAuthService');
 
 function buildAuthResponse(user) {
   const token = signAuthToken(user);
