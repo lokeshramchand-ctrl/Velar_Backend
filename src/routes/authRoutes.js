@@ -2,18 +2,22 @@ const express = require('express');
 const {
   register,
   login,
+  refresh,
+  logout,
   getCurrentUser,
 } = require('../controllers/authController');
+
 const { requireAuth } = require('../middleware/authMiddleware');
 
 const router = express.Router();
 
+// ================= AUTH =================
 router.post('/register', register);
 router.post('/login', login);
-router.get('/me', requireAuth, getCurrentUser);
+router.post('/refresh', refresh);
+router.post('/logout', logout);
 
-router.post('/logout', (req, res) => {
-  res.json({ success: true, message: 'Logged out' });
-});
+// ================= USER =================
+router.get('/me', requireAuth, getCurrentUser);
 
 module.exports = router;
