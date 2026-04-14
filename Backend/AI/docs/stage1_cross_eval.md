@@ -186,7 +186,7 @@ From `cross_errors.json`:
 
 ---
 
-## 🧠 Interpretation
+##  Interpretation
 
 This experiment demonstrates a critical limitation:
 
@@ -199,7 +199,7 @@ While they perform well in controlled environments, they:
 
 ---
 
-## 📌 Conclusion
+##  Conclusion
 
 * High in-distribution accuracy (**93%**) is misleading
 * Real-world performance drops significantly under noise
@@ -207,7 +207,7 @@ While they perform well in controlled environments, they:
 
 ---
 
-## 🚀 Next Steps
+##  Next Steps
 
 To address these limitations:
 
@@ -228,7 +228,7 @@ To address these limitations:
 
 ---
 
-## 🧾 Summary Insight
+##  Summary Insight
 
 > “Traditional bag-of-words models achieve high accuracy in controlled settings but fail completely under ambiguous, real-world financial inputs.”
 
