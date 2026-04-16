@@ -13,7 +13,7 @@ from sklearn.utils.class_weight import compute_class_weight
 import joblib
 
 # ---------- CONFIG ----------
-DATA_PATH = "/home/lowsl/code/velar_node_backend/Backend/AI/datasets/Json/final_dataset_v2.json"
+DATA_PATH = "/home/lowsl/code/velar_node_backend/Backend/AI/datasets/Json/final_dataset_v2.5.json"
 MODEL_DIR = "/home/lowsl/code/velar_node_backend/Backend/AI/model"
 SEED = 42
 
