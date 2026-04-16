@@ -1,4 +1,4 @@
-#!/home/lowsl/code/velar_node_backend/Backend/AI/.venv/bin/python3
+#!/home/lowsl/code/velar_node_backend/AI/.venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys

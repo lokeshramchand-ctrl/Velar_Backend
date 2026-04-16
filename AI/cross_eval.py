@@ -4,11 +4,11 @@ from sklearn.metrics import classification_report, accuracy_score
 
 # ---------- LOAD MODEL ----------
 # ---------- LOAD MODEL ----------
-model = joblib.load("/home/lowsl/code/velar_node_backend/Backend/AI/model/category_model.pkl")
-vectorizer = joblib.load("/home/lowsl/code/velar_node_backend/Backend/AI/model/vectorizer.pkl")
+model = joblib.load("category_model.pkl")
+vectorizer = joblib.load("vectorizer.pkl")
 
 # ---------- LOAD HARD DATASET ----------
-with open("/home/lowsl/code/velar_node_backend/Backend/AI/datasets/Json/final_dataset_v2.5.json", "r", encoding="utf-8") as f:
+with open("final_dataset_v2.5.json", "r", encoding="utf-8") as f:
     hard_data = json.load(f)
 
 texts = [d["text"] for d in hard_data]
