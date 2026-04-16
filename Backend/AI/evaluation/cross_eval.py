@@ -8,7 +8,7 @@ model = joblib.load("/home/lowsl/code/velar_node_backend/Backend/AI/model/catego
 vectorizer = joblib.load("/home/lowsl/code/velar_node_backend/Backend/AI/model/vectorizer.pkl")
 
 # ---------- LOAD HARD DATASET ----------
-with open("/home/lowsl/code/velar_node_backend/Backend/AI/datasets/Json/final_dataset.json", "r", encoding="utf-8") as f:
+with open("/home/lowsl/code/velar_node_backend/Backend/AI/datasets/Json/final_dataset_v2.5.json", "r", encoding="utf-8") as f:
     hard_data = json.load(f)
 
 texts = [d["text"] for d in hard_data]
