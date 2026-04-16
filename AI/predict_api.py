@@ -3,7 +3,7 @@ import joblib
 import numpy as np
 import re
 
-from rules.transaction_rules import get_category_from_rules
+from AI.rules.transaction_rules import get_category_from_rules
 
 # Load models
 model = joblib.load("model/category_model.pkl")
