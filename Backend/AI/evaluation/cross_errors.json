@@ -1,0 +1,3142 @@
+[
+  {
+    "text": "Paid 4238 INR to Airtel and Electricity",
+    "true": "Shopping",
+    "predicted": "Bills"
+  },
+  {
+    "text": "amount debited Rs 219",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "money spent 1397",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "3479 rs payment successful",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "337 INR payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "Paid 1314 rs to Amazon and Flipkart",
+    "true": "Entertainment",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "4462 rs payment successful",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "transaction completed Rs 2509",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "154 INR payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "Paid ₹3354 to Amazon and Ola",
+    "true": "Bills",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "transaction completed 2385 INR",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "Rs 2562 payment successful",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "transaction completed 4409 INR",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "Paid Rs 159 to Uber and Uber",
+    "true": "Shopping",
+    "predicted": "Travel"
+  },
+  {
+    "text": "86 rs payment successful",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "Paid 2765 rs to Ola and Amazon",
+    "true": "Entertainment",
+    "predicted": "Travel"
+  },
+  {
+    "text": "amount debited 894 rs",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "772 rs payment successful",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "1325 payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "transaction completed 710 rs",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "money spent 4150 INR",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "transaction completed ₹3353",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "money spent 2507 rs",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "Paid 2779 rs to Airtel and Zomato",
+    "true": "Entertainment",
+    "predicted": "Bills"
+  },
+  {
+    "text": "Paid ₹4735 to Swiggy and Netflix",
+    "true": "Entertainment",
+    "predicted": "Food"
+  },
+  {
+    "text": "3907 payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "₹4691 payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "Paid Rs 2916 to Flipkart and Jio",
+    "true": "Bills",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "amount debited 3935 rs",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "3932 payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "amount debited Rs 449",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "transaction completed ₹1931",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "3419 rs payment successful",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "₹542 payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "₹3050 payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "3594 rs payment successful",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "Paid 746 rs to Nike and Nike",
+    "true": "Food",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "4230 rs payment successful",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "2670 payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "amount debited 4412 INR",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "amount debited 408 INR",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "₹4387 payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "4392 INR payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "amount debited 178 rs",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "Paid Rs 1753 to Electricity and KFC",
+    "true": "Travel",
+    "predicted": "Bills"
+  },
+  {
+    "text": "Paid Rs 1555 to Netflix and Jio",
+    "true": "Travel",
+    "predicted": "Entertainment"
+  },
+  {
+    "text": "Rs 988 payment successful",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "Paid 2894 INR to Electricity and Jio",
+    "true": "Entertainment",
+    "predicted": "Bills"
+  },
+  {
+    "text": "transaction completed 1091 rs",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "money spent ₹1230",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "Paid 594 to Flipkart and Zomato",
+    "true": "Bills",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "₹2668 payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "money spent 2252 INR",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "Paid Rs 3623 to Jio and Jio",
+    "true": "Food",
+    "predicted": "Bills"
+  },
+  {
+    "text": "transaction completed ₹4147",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "amount debited 2732 INR",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "1050 rs payment successful",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "₹1284 payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "₹4103 payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "amount debited 1166 INR",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "amount debited 3011 rs",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "256 rs payment successful",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "amount debited 199 rs",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "amount debited 4288",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "Paid Rs 4136 to Flipkart and Uber",
+    "true": "Food",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "money spent 2410 rs",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "money spent Rs 4603",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "939 payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "3091 payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "Paid Rs 1531 to Spotify and Airtel",
+    "true": "Bills",
+    "predicted": "Entertainment"
+  },
+  {
+    "text": "money spent 2143",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "3687 INR payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "money spent 1862 INR",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "money spent 305",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "2569 payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "Paid 3579 to Electricity and Flipkart",
+    "true": "Food",
+    "predicted": "Bills"
+  },
+  {
+    "text": "3887 INR payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "3303 payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "4146 payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "Paid ₹2173 to Swiggy and Netflix",
+    "true": "Shopping",
+    "predicted": "Food"
+  },
+  {
+    "text": "1452 payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "₹3758 payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "Paid Rs 2103 to Jio and Netflix",
+    "true": "Travel",
+    "predicted": "Bills"
+  },
+  {
+    "text": "transaction completed Rs 2296",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "transaction completed Rs 2046",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "Paid Rs 3722 to Spotify and Netflix",
+    "true": "Shopping",
+    "predicted": "Entertainment"
+  },
+  {
+    "text": "money spent ₹1407",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "transaction completed ₹1636",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "transaction completed 1859",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "transaction completed ₹1760",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "Paid Rs 4298 to Ola and Flipkart",
+    "true": "Bills",
+    "predicted": "Travel"
+  },
+  {
+    "text": "Paid 2723 rs to Airtel and Swiggy",
+    "true": "Shopping",
+    "predicted": "Bills"
+  },
+  {
+    "text": "3797 payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "₹321 payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "₹2149 payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "Paid 642 rs to Zomato and Jio",
+    "true": "Travel",
+    "predicted": "Food"
+  },
+  {
+    "text": "amount debited 2031 rs",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "1663 payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "money spent 2162 rs",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "amount debited Rs 1213",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "2736 payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "₹3083 payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "money spent ₹1578",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "3027 INR payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "Rs 2735 payment successful",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "amount debited 4193",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "Paid 4847 to Netflix and Airtel",
+    "true": "Shopping",
+    "predicted": "Entertainment"
+  },
+  {
+    "text": "transaction completed 1102 rs",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "4348 INR payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "₹657 payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "₹592 payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "transaction completed Rs 745",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "money spent 2836",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "amount debited 1363 rs",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "Paid ₹2237 to Jio and Swiggy",
+    "true": "Food",
+    "predicted": "Bills"
+  },
+  {
+    "text": "Paid ₹214 to Nike and Swiggy",
+    "true": "Food",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "2679 rs payment successful",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "Rs 4379 payment successful",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "Paid 3400 to Jio and Electricity",
+    "true": "Entertainment",
+    "predicted": "Bills"
+  },
+  {
+    "text": "Paid 4815 rs to Spotify and Nike",
+    "true": "Bills",
+    "predicted": "Entertainment"
+  },
+  {
+    "text": "Paid 1522 INR to Nike and Swiggy",
+    "true": "Travel",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "₹470 payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "4212 payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "amount debited 761 rs",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "1230 INR payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "transaction completed 3040 INR",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "Paid 4755 to Zomato and Ola",
+    "true": "Bills",
+    "predicted": "Food"
+  },
+  {
+    "text": "money spent Rs 4690",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "3347 INR payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "amount debited ₹454",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "Paid 3479 rs to Amazon and Flipkart",
+    "true": "Entertainment",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "money spent ₹2054",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "Paid ₹2348 to Ola and Ola",
+    "true": "Shopping",
+    "predicted": "Travel"
+  },
+  {
+    "text": "transaction completed 3812 rs",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "Rs 3046 payment successful",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "2990 rs payment successful",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "money spent 1458 INR",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "Rs 2174 payment successful",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "transaction completed Rs 3581",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "3113 INR payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "Paid 3457 rs to KFC and Uber",
+    "true": "Entertainment",
+    "predicted": "Food"
+  },
+  {
+    "text": "money spent 353",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "Paid 2140 INR to Flipkart and Flipkart",
+    "true": "Food",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "money spent 3653",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "1489 rs payment successful",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "4598 rs payment successful",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "Paid ₹3831 to KFC and Zomato",
+    "true": "Entertainment",
+    "predicted": "Food"
+  },
+  {
+    "text": "403 payment successful",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "Paid 362 rs to Spotify and Jio",
+    "true": "Food",
+    "predicted": "Entertainment"
+  },
+  {
+    "text": "Paid Rs 3132 to Nike and Jio",
+    "true": "Travel",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "386 rs payment successful",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "money spent Rs 4600",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "amount debited ₹3928",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "transaction completed ₹1003",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "Rs 243 payment successful",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "Paid Rs 413 to Zomato and KFC",
+    "true": "Bills",
+    "predicted": "Food"
+  },
+  {
+    "text": "Paid 4137 rs to Ola and Nike",
+    "true": "Bills",
+    "predicted": "Travel"
+  },
+  {
+    "text": "Paid ₹1268 to Zomato and Airtel",
+    "true": "Shopping",
+    "predicted": "Food"
+  },
+  {
+    "text": "Paid ₹4320 to Zomato and Amazon",
+    "true": "Bills",
+    "predicted": "Food"
+  },
+  {
+    "text": "Paid 3862 to Amazon and Netflix",
+    "true": "Entertainment",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "transaction completed ₹2379",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "Paid 565 rs to Flipkart and Jio",
+    "true": "Travel",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "4731 INR payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "money spent ₹217",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "Paid 1400 to Nike and Netflix",
+    "true": "Travel",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "transaction completed Rs 2560",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "Paid 2492 rs to Airtel and KFC",
+    "true": "Food",
+    "predicted": "Bills"
+  },
+  {
+    "text": "money spent ₹2469",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "Paid 418 to Ola and Netflix",
+    "true": "Shopping",
+    "predicted": "Travel"
+  },
+  {
+    "text": "Paid Rs 4181 to Netflix and Ola",
+    "true": "Shopping",
+    "predicted": "Entertainment"
+  },
+  {
+    "text": "transaction completed Rs 234",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "1236 INR payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "Rs 3232 payment successful",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "amount debited 87 rs",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "transaction completed 3263",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "₹3078 payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "654 rs payment successful",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "transaction completed 694",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "Paid Rs 1435 to Electricity and KFC",
+    "true": "Travel",
+    "predicted": "Bills"
+  },
+  {
+    "text": "2812 rs payment successful",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "Rs 814 payment successful",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "4382 payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "1585 rs payment successful",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "Rs 4801 payment successful",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "money spent ₹3851",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "Rs 1587 payment successful",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "1171 INR payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "amount debited ₹3684",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "499 rs payment successful",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "money spent 3492",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "2883 payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "2216 rs payment successful",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "Paid Rs 4942 to Jio and Uber",
+    "true": "Entertainment",
+    "predicted": "Bills"
+  },
+  {
+    "text": "Paid 631 INR to KFC and Jio",
+    "true": "Shopping",
+    "predicted": "Food"
+  },
+  {
+    "text": "4968 payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "money spent ₹225",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "Paid 164 to Electricity and Ola",
+    "true": "Food",
+    "predicted": "Bills"
+  },
+  {
+    "text": "Paid 191 to Zomato and Uber",
+    "true": "Travel",
+    "predicted": "Food"
+  },
+  {
+    "text": "Rs 150 payment successful",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "money spent Rs 1217",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "money spent 1738 INR",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "2974 rs payment successful",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "Paid 1588 to Zomato and Flipkart",
+    "true": "Entertainment",
+    "predicted": "Food"
+  },
+  {
+    "text": "Paid 1191 rs to Nike and Netflix",
+    "true": "Travel",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "transaction completed 1143 rs",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "4198 INR payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "Rs 2307 payment successful",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "Paid Rs 1336 to Electricity and Ola",
+    "true": "Entertainment",
+    "predicted": "Bills"
+  },
+  {
+    "text": "transaction completed 2078",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "amount debited Rs 4161",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "transaction completed ₹492",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "money spent ₹1317",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "1428 rs payment successful",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "₹2291 payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "amount debited ₹1496",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "Paid 4713 to Netflix and Ola",
+    "true": "Shopping",
+    "predicted": "Entertainment"
+  },
+  {
+    "text": "Paid 3967 INR to Spotify and Nike",
+    "true": "Food",
+    "predicted": "Entertainment"
+  },
+  {
+    "text": "517 rs payment successful",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "transaction completed 4332 rs",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "Paid 2754 to Flipkart and Electricity",
+    "true": "Travel",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "money spent ₹1019",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "2081 rs payment successful",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "transaction completed Rs 1919",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "Paid ₹2768 to Zomato and Jio",
+    "true": "Bills",
+    "predicted": "Food"
+  },
+  {
+    "text": "₹253 payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "transaction completed ₹3003",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "transaction completed Rs 2992",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "Paid 1871 to Uber and KFC",
+    "true": "Shopping",
+    "predicted": "Travel"
+  },
+  {
+    "text": "amount debited Rs 1370",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "3257 rs payment successful",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "3856 rs payment successful",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "2332 INR payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "Paid Rs 2460 to Jio and Spotify",
+    "true": "Shopping",
+    "predicted": "Bills"
+  },
+  {
+    "text": "transaction completed ₹1972",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "Paid 666 rs to KFC and Flipkart",
+    "true": "Bills",
+    "predicted": "Food"
+  },
+  {
+    "text": "transaction completed 4331",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "Paid 4633 rs to Electricity and Electricity",
+    "true": "Shopping",
+    "predicted": "Bills"
+  },
+  {
+    "text": "Paid ₹1772 to Ola and Airtel",
+    "true": "Entertainment",
+    "predicted": "Travel"
+  },
+  {
+    "text": "₹919 payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "Paid 1820 rs to Spotify and Electricity",
+    "true": "Bills",
+    "predicted": "Entertainment"
+  },
+  {
+    "text": "1289 INR payment successful",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "Rs 3913 payment successful",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "money spent 4372 rs",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "transaction completed 481 INR",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "Paid 4845 to Flipkart and Ola",
+    "true": "Entertainment",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "money spent 2472",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "Paid ₹348 to KFC and Jio",
+    "true": "Shopping",
+    "predicted": "Food"
+  },
+  {
+    "text": "Paid 4818 INR to KFC and Airtel",
+    "true": "Travel",
+    "predicted": "Food"
+  },
+  {
+    "text": "Paid ₹425 to Amazon and Amazon",
+    "true": "Travel",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "Paid ₹3137 to Airtel and KFC",
+    "true": "Travel",
+    "predicted": "Bills"
+  },
+  {
+    "text": "Paid 4851 INR to KFC and Spotify",
+    "true": "Shopping",
+    "predicted": "Food"
+  },
+  {
+    "text": "Paid 4486 to KFC and Amazon",
+    "true": "Travel",
+    "predicted": "Food"
+  },
+  {
+    "text": "Paid Rs 3652 to Airtel and Swiggy",
+    "true": "Travel",
+    "predicted": "Bills"
+  },
+  {
+    "text": "₹3047 payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "3819 INR payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "transaction completed ₹2559",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "Paid 1036 INR to Spotify and Ola",
+    "true": "Food",
+    "predicted": "Entertainment"
+  },
+  {
+    "text": "1581 rs payment successful",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "money spent Rs 2352",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "amount debited Rs 1283",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "Paid Rs 1762 to Uber and Electricity",
+    "true": "Food",
+    "predicted": "Travel"
+  },
+  {
+    "text": "4766 payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "₹3992 payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "Paid Rs 1866 to KFC and Uber",
+    "true": "Travel",
+    "predicted": "Food"
+  },
+  {
+    "text": "amount debited 3711 rs",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "money spent ₹1956",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "Paid Rs 3848 to Electricity and Ola",
+    "true": "Shopping",
+    "predicted": "Bills"
+  },
+  {
+    "text": "money spent 3853 INR",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "transaction completed 2556 INR",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "amount debited ₹4058",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "608 rs payment successful",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "money spent 3517",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "Paid ₹2015 to Airtel and Swiggy",
+    "true": "Shopping",
+    "predicted": "Bills"
+  },
+  {
+    "text": "₹1914 payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "4822 rs payment successful",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "₹2962 payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "3893 INR payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "Paid ₹3457 to KFC and Uber",
+    "true": "Travel",
+    "predicted": "Food"
+  },
+  {
+    "text": "amount debited Rs 1495",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "transaction completed 3403 INR",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "2135 payment successful",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "Paid 4671 rs to Swiggy and Flipkart",
+    "true": "Travel",
+    "predicted": "Food"
+  },
+  {
+    "text": "329 INR payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "Paid 1885 to Spotify and Spotify",
+    "true": "Shopping",
+    "predicted": "Entertainment"
+  },
+  {
+    "text": "Paid 3609 to KFC and Nike",
+    "true": "Bills",
+    "predicted": "Food"
+  },
+  {
+    "text": "Paid Rs 1323 to Airtel and KFC",
+    "true": "Travel",
+    "predicted": "Bills"
+  },
+  {
+    "text": "Paid ₹3238 to Jio and Airtel",
+    "true": "Food",
+    "predicted": "Bills"
+  },
+  {
+    "text": "amount debited 2223 rs",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "transaction completed Rs 321",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "money spent 1366",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "Paid 1414 INR to KFC and Nike",
+    "true": "Entertainment",
+    "predicted": "Food"
+  },
+  {
+    "text": "transaction completed 4775",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "amount debited 934",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "2476 payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "Paid Rs 4703 to KFC and Spotify",
+    "true": "Bills",
+    "predicted": "Food"
+  },
+  {
+    "text": "money spent 818",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "amount debited ₹4640",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "Paid 855 to Zomato and Amazon",
+    "true": "Entertainment",
+    "predicted": "Food"
+  },
+  {
+    "text": "amount debited Rs 2429",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "155 payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "Paid 4682 rs to Electricity and Ola",
+    "true": "Shopping",
+    "predicted": "Bills"
+  },
+  {
+    "text": "Paid 3847 rs to Electricity and Spotify",
+    "true": "Travel",
+    "predicted": "Bills"
+  },
+  {
+    "text": "4275 INR payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "Paid 3119 INR to Airtel and KFC",
+    "true": "Travel",
+    "predicted": "Bills"
+  },
+  {
+    "text": "Paid Rs 3801 to Electricity and Zomato",
+    "true": "Shopping",
+    "predicted": "Bills"
+  },
+  {
+    "text": "money spent Rs 4286",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "Paid 3083 to Netflix and Zomato",
+    "true": "Food",
+    "predicted": "Entertainment"
+  },
+  {
+    "text": "3175 rs payment successful",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "Paid 2191 INR to Uber and Spotify",
+    "true": "Food",
+    "predicted": "Travel"
+  },
+  {
+    "text": "Paid ₹3396 to Airtel and Flipkart",
+    "true": "Shopping",
+    "predicted": "Bills"
+  },
+  {
+    "text": "transaction completed 3953 rs",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "transaction completed 1701 INR",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "amount debited 2734",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "Paid Rs 1346 to Spotify and Ola",
+    "true": "Food",
+    "predicted": "Entertainment"
+  },
+  {
+    "text": "Paid Rs 119 to Electricity and Amazon",
+    "true": "Food",
+    "predicted": "Bills"
+  },
+  {
+    "text": "Paid Rs 882 to Zomato and Ola",
+    "true": "Travel",
+    "predicted": "Food"
+  },
+  {
+    "text": "1064 payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "Paid Rs 3590 to Swiggy and Zomato",
+    "true": "Entertainment",
+    "predicted": "Food"
+  },
+  {
+    "text": "Rs 4775 payment successful",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "money spent 4658",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "Paid Rs 2933 to Uber and Electricity",
+    "true": "Entertainment",
+    "predicted": "Travel"
+  },
+  {
+    "text": "Paid 2654 INR to Spotify and Ola",
+    "true": "Food",
+    "predicted": "Entertainment"
+  },
+  {
+    "text": "Paid 4479 to Flipkart and Flipkart",
+    "true": "Travel",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "Paid 2737 INR to Uber and Uber",
+    "true": "Food",
+    "predicted": "Travel"
+  },
+  {
+    "text": "Rs 4610 payment successful",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "amount debited Rs 3727",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "amount debited Rs 1694",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "Rs 1475 payment successful",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "money spent 1738 rs",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "3925 payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "Paid ₹2376 to Flipkart and Nike",
+    "true": "Travel",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "1237 rs payment successful",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "money spent 1991 INR",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "Paid 118 rs to Uber and Spotify",
+    "true": "Bills",
+    "predicted": "Travel"
+  },
+  {
+    "text": "Paid ₹2685 to Zomato and Airtel",
+    "true": "Entertainment",
+    "predicted": "Food"
+  },
+  {
+    "text": "Paid 2642 INR to Nike and Swiggy",
+    "true": "Entertainment",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "₹858 payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "Paid 892 rs to Swiggy and Amazon",
+    "true": "Bills",
+    "predicted": "Food"
+  },
+  {
+    "text": "Rs 1790 payment successful",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "Paid 1998 INR to Uber and Flipkart",
+    "true": "Food",
+    "predicted": "Travel"
+  },
+  {
+    "text": "Paid 2128 INR to Spotify and Amazon",
+    "true": "Bills",
+    "predicted": "Entertainment"
+  },
+  {
+    "text": "transaction completed ₹4436",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "money spent 2605",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "money spent 4993 rs",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "amount debited 4324 INR",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "Paid Rs 1269 to Swiggy and Swiggy",
+    "true": "Travel",
+    "predicted": "Food"
+  },
+  {
+    "text": "money spent 3186",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "Paid 4107 rs to KFC and Nike",
+    "true": "Shopping",
+    "predicted": "Food"
+  },
+  {
+    "text": "Rs 3868 payment successful",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "money spent 4681",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "Paid 3635 rs to Airtel and Spotify",
+    "true": "Shopping",
+    "predicted": "Bills"
+  },
+  {
+    "text": "3722 INR payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "Paid 3666 INR to Spotify and Electricity",
+    "true": "Food",
+    "predicted": "Entertainment"
+  },
+  {
+    "text": "Paid ₹1890 to Amazon and Nike",
+    "true": "Entertainment",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "Paid Rs 2310 to Jio and Electricity",
+    "true": "Food",
+    "predicted": "Bills"
+  },
+  {
+    "text": "3073 INR payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "2508 rs payment successful",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "amount debited 930",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "₹2435 payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "Paid Rs 4252 to KFC and Spotify",
+    "true": "Entertainment",
+    "predicted": "Food"
+  },
+  {
+    "text": "money spent Rs 2324",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "Paid 836 INR to Spotify and Swiggy",
+    "true": "Food",
+    "predicted": "Entertainment"
+  },
+  {
+    "text": "1731 payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "Paid 4024 to Airtel and Flipkart",
+    "true": "Food",
+    "predicted": "Bills"
+  },
+  {
+    "text": "money spent 2633",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "Paid 1374 rs to Amazon and Spotify",
+    "true": "Travel",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "transaction completed 2446 rs",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "Paid Rs 1807 to Flipkart and Zomato",
+    "true": "Bills",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "money spent 4085",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "4623 payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "money spent Rs 3244",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "amount debited 1535 INR",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "transaction completed 334 INR",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "Paid 2229 to Jio and Airtel",
+    "true": "Entertainment",
+    "predicted": "Bills"
+  },
+  {
+    "text": "Paid ₹4683 to KFC and Swiggy",
+    "true": "Entertainment",
+    "predicted": "Food"
+  },
+  {
+    "text": "amount debited Rs 4489",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "Rs 2238 payment successful",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "Paid 2075 to Swiggy and Uber",
+    "true": "Shopping",
+    "predicted": "Food"
+  },
+  {
+    "text": "money spent 2553 rs",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "amount debited 4544 INR",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "Paid 73 rs to Amazon and Electricity",
+    "true": "Travel",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "money spent 4599 rs",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "money spent 1396 rs",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "Paid ₹4724 to Airtel and Amazon",
+    "true": "Food",
+    "predicted": "Bills"
+  },
+  {
+    "text": "1030 INR payment successful",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "2954 INR payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "amount debited ₹4988",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "money spent 2828",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "Rs 3130 payment successful",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "3317 rs payment successful",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "money spent 4859",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "Paid ₹1571 to Electricity and KFC",
+    "true": "Food",
+    "predicted": "Bills"
+  },
+  {
+    "text": "transaction completed ₹667",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "amount debited Rs 2075",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "Rs 2479 payment successful",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "Paid Rs 3376 to Jio and Uber",
+    "true": "Travel",
+    "predicted": "Bills"
+  },
+  {
+    "text": "transaction completed Rs 3580",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "money spent 4088 rs",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "Paid Rs 1407 to Jio and Ola",
+    "true": "Travel",
+    "predicted": "Bills"
+  },
+  {
+    "text": "Paid 1597 rs to Flipkart and Amazon",
+    "true": "Travel",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "money spent 1600",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "money spent Rs 1759",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "amount debited ₹1493",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "198 rs payment successful",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "2038 INR payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "₹2245 payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "₹4289 payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "amount debited Rs 4342",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "amount debited 1481",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "183 rs payment successful",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "Paid 1944 to Uber and Ola",
+    "true": "Food",
+    "predicted": "Travel"
+  },
+  {
+    "text": "4492 payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "amount debited 2928 INR",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "money spent 1617",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "Paid 988 to Spotify and Zomato",
+    "true": "Travel",
+    "predicted": "Entertainment"
+  },
+  {
+    "text": "money spent 367",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "438 payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "Rs 4777 payment successful",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "transaction completed Rs 4751",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "money spent 1694 rs",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "Paid ₹2752 to Netflix and Netflix",
+    "true": "Shopping",
+    "predicted": "Entertainment"
+  },
+  {
+    "text": "3979 payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "money spent Rs 3443",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "Paid 1735 INR to Airtel and Netflix",
+    "true": "Travel",
+    "predicted": "Bills"
+  },
+  {
+    "text": "Paid 853 to Nike and Amazon",
+    "true": "Bills",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "transaction completed 2630 rs",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "money spent ₹364",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "Paid 4697 rs to Netflix and Spotify",
+    "true": "Travel",
+    "predicted": "Entertainment"
+  },
+  {
+    "text": "4828 payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "Paid Rs 1326 to Amazon and KFC",
+    "true": "Bills",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "money spent ₹2465",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "Paid 4569 to Nike and Ola",
+    "true": "Travel",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "transaction completed 2782 INR",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "amount debited ₹186",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "money spent 1723",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "Paid 324 to Electricity and Zomato",
+    "true": "Food",
+    "predicted": "Bills"
+  },
+  {
+    "text": "amount debited 4707",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "2375 INR payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "amount debited 3492 rs",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "Paid 1404 rs to Jio and Netflix",
+    "true": "Entertainment",
+    "predicted": "Bills"
+  },
+  {
+    "text": "Paid 2612 to Amazon and Uber",
+    "true": "Food",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "4011 INR payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "Paid Rs 1201 to Netflix and Zomato",
+    "true": "Food",
+    "predicted": "Entertainment"
+  },
+  {
+    "text": "Paid Rs 1672 to Uber and Uber",
+    "true": "Food",
+    "predicted": "Travel"
+  },
+  {
+    "text": "₹4023 payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "amount debited 1107 INR",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "Paid ₹4418 to Spotify and Netflix",
+    "true": "Bills",
+    "predicted": "Entertainment"
+  },
+  {
+    "text": "Rs 2545 payment successful",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "Paid 3745 to Spotify and Swiggy",
+    "true": "Bills",
+    "predicted": "Entertainment"
+  },
+  {
+    "text": "Paid Rs 119 to Netflix and Amazon",
+    "true": "Food",
+    "predicted": "Entertainment"
+  },
+  {
+    "text": "amount debited 3510 INR",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "Paid Rs 2005 to Zomato and KFC",
+    "true": "Shopping",
+    "predicted": "Food"
+  },
+  {
+    "text": "Paid 846 rs to Nike and Uber",
+    "true": "Food",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "Paid Rs 4157 to Spotify and Flipkart",
+    "true": "Bills",
+    "predicted": "Entertainment"
+  },
+  {
+    "text": "1013 rs payment successful",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "Paid 4808 INR to Swiggy and Spotify",
+    "true": "Travel",
+    "predicted": "Food"
+  },
+  {
+    "text": "amount debited Rs 1947",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "1040 payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "2066 payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "4652 payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "843 rs payment successful",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "amount debited 2253 INR",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "money spent ₹4434",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "money spent ₹4068",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "money spent 3272 rs",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "amount debited 1874 INR",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "Paid 2742 rs to Nike and Zomato",
+    "true": "Food",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "₹3249 payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "Paid 4991 to Amazon and Jio",
+    "true": "Bills",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "2472 payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "Rs 1945 payment successful",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "Rs 818 payment successful",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "2846 rs payment successful",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "Paid ₹2286 to Amazon and Ola",
+    "true": "Travel",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "transaction completed 4847 INR",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "₹740 payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "3946 rs payment successful",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "amount debited 2117 rs",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "money spent ₹4395",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "₹3979 payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "2104 payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "money spent 4250 INR",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "687 INR payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "transaction completed ₹1572",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "amount debited Rs 1463",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "money spent 1473 rs",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "Rs 1953 payment successful",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "Paid 4119 rs to Uber and Uber",
+    "true": "Food",
+    "predicted": "Travel"
+  },
+  {
+    "text": "money spent 4076",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "Rs 1471 payment successful",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "Rs 4666 payment successful",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "money spent Rs 3771",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "4379 INR payment successful",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "amount debited ₹3043",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "Paid 1159 to Airtel and Electricity",
+    "true": "Food",
+    "predicted": "Bills"
+  },
+  {
+    "text": "Paid 2690 rs to Uber and Amazon",
+    "true": "Entertainment",
+    "predicted": "Travel"
+  },
+  {
+    "text": "Paid 4341 rs to Jio and Amazon",
+    "true": "Travel",
+    "predicted": "Bills"
+  },
+  {
+    "text": "money spent 4984 rs",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "3170 rs payment successful",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "Paid 3511 to Zomato and Zomato",
+    "true": "Entertainment",
+    "predicted": "Food"
+  },
+  {
+    "text": "3644 rs payment successful",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "amount debited ₹3066",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "amount debited Rs 2412",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "money spent 4377 INR",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "Paid 4200 INR to Netflix and Nike",
+    "true": "Travel",
+    "predicted": "Entertainment"
+  },
+  {
+    "text": "₹4433 payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "amount debited 287 rs",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "2985 payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "amount debited 444 rs",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "amount debited 3894",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "Paid Rs 4558 to Jio and Ola",
+    "true": "Travel",
+    "predicted": "Bills"
+  },
+  {
+    "text": "1481 payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "Paid 3724 INR to Ola and Nike",
+    "true": "Entertainment",
+    "predicted": "Travel"
+  },
+  {
+    "text": "₹2053 payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "Paid 895 rs to Electricity and Electricity",
+    "true": "Travel",
+    "predicted": "Bills"
+  },
+  {
+    "text": "Rs 4357 payment successful",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "Paid ₹4670 to Netflix and Swiggy",
+    "true": "Bills",
+    "predicted": "Entertainment"
+  },
+  {
+    "text": "Paid Rs 557 to Flipkart and Nike",
+    "true": "Food",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "Paid 480 rs to Netflix and Zomato",
+    "true": "Travel",
+    "predicted": "Entertainment"
+  },
+  {
+    "text": "Paid 4415 rs to Spotify and Airtel",
+    "true": "Shopping",
+    "predicted": "Entertainment"
+  },
+  {
+    "text": "amount debited 4849",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "₹2336 payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "Paid 4226 to Swiggy and Airtel",
+    "true": "Entertainment",
+    "predicted": "Food"
+  },
+  {
+    "text": "Paid 2293 INR to Amazon and Jio",
+    "true": "Food",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "Rs 2705 payment successful",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "money spent 2978",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "Paid 1459 rs to Uber and Airtel",
+    "true": "Shopping",
+    "predicted": "Travel"
+  },
+  {
+    "text": "Paid Rs 2654 to Ola and Airtel",
+    "true": "Food",
+    "predicted": "Travel"
+  },
+  {
+    "text": "Paid 4319 rs to Netflix and Uber",
+    "true": "Shopping",
+    "predicted": "Entertainment"
+  },
+  {
+    "text": "transaction completed ₹783",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "amount debited 4495",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "₹1536 payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "3159 payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "money spent 656 INR",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "4286 payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "transaction completed Rs 1733",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "₹2276 payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "transaction completed ₹4482",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "amount debited 2078 INR",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "money spent 3481",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "₹4797 payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "Rs 1984 payment successful",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "Paid 4428 INR to Nike and Airtel",
+    "true": "Entertainment",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "Rs 1343 payment successful",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "transaction completed 3686 rs",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "3654 INR payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "money spent ₹1370",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "Paid Rs 2649 to Nike and Electricity",
+    "true": "Travel",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "Rs 2126 payment successful",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "money spent 4520",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "amount debited Rs 3380",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "money spent 4505 INR",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "Paid Rs 4642 to Nike and Nike",
+    "true": "Travel",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "2069 INR payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "Paid 2715 INR to Airtel and Flipkart",
+    "true": "Travel",
+    "predicted": "Bills"
+  },
+  {
+    "text": "Paid 1287 to Ola and Netflix",
+    "true": "Shopping",
+    "predicted": "Travel"
+  },
+  {
+    "text": "₹4389 payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "4315 rs payment successful",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "Paid 3283 rs to Netflix and Jio",
+    "true": "Bills",
+    "predicted": "Entertainment"
+  },
+  {
+    "text": "569 rs payment successful",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "Paid 2857 rs to Flipkart and Swiggy",
+    "true": "Travel",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "amount debited ₹3330",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "money spent Rs 1445",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "Paid Rs 314 to Zomato and Airtel",
+    "true": "Entertainment",
+    "predicted": "Food"
+  },
+  {
+    "text": "402 INR payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "₹3726 payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "₹4014 payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "₹3008 payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "Paid 994 to Electricity and Airtel",
+    "true": "Entertainment",
+    "predicted": "Bills"
+  },
+  {
+    "text": "transaction completed Rs 804",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "₹4851 payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "150 payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "Paid 4478 INR to Ola and Swiggy",
+    "true": "Entertainment",
+    "predicted": "Travel"
+  },
+  {
+    "text": "Paid ₹1207 to KFC and KFC",
+    "true": "Entertainment",
+    "predicted": "Food"
+  },
+  {
+    "text": "1361 payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "Rs 2859 payment successful",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "2860 rs payment successful",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "amount debited 1127 rs",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "money spent ₹4909",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "Rs 4883 payment successful",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "money spent 4673",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "transaction completed 1873",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "2144 rs payment successful",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "Paid Rs 817 to Spotify and Swiggy",
+    "true": "Bills",
+    "predicted": "Entertainment"
+  },
+  {
+    "text": "amount debited ₹1618",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "1304 INR payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "882 rs payment successful",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "amount debited Rs 1338",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "3477 INR payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "4889 INR payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "Paid 388 to Zomato and Spotify",
+    "true": "Shopping",
+    "predicted": "Food"
+  },
+  {
+    "text": "₹226 payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "4463 rs payment successful",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "Paid Rs 3351 to Netflix and Airtel",
+    "true": "Bills",
+    "predicted": "Entertainment"
+  },
+  {
+    "text": "amount debited ₹3167",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "Paid 2285 to Amazon and Netflix",
+    "true": "Entertainment",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "Paid Rs 2078 to Flipkart and Amazon",
+    "true": "Entertainment",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "amount debited Rs 3090",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "money spent Rs 1415",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "amount debited 3188 rs",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "1151 payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "money spent ₹1232",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "Rs 2896 payment successful",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "money spent ₹4562",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "4923 INR payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "money spent ₹4300",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "4757 rs payment successful",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "Paid 3036 INR to Zomato and Spotify",
+    "true": "Shopping",
+    "predicted": "Food"
+  },
+  {
+    "text": "Paid Rs 2278 to Nike and Amazon",
+    "true": "Food",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "money spent 3450 INR",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "amount debited ₹827",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "money spent 3573 rs",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "Paid ₹3773 to Flipkart and Spotify",
+    "true": "Entertainment",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "Paid 1388 to Jio and KFC",
+    "true": "Entertainment",
+    "predicted": "Bills"
+  },
+  {
+    "text": "Paid 910 to KFC and Uber",
+    "true": "Bills",
+    "predicted": "Food"
+  },
+  {
+    "text": "transaction completed 2051",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "Paid ₹1915 to Uber and Jio",
+    "true": "Bills",
+    "predicted": "Travel"
+  },
+  {
+    "text": "2200 INR payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "Paid Rs 1556 to Nike and Jio",
+    "true": "Food",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "amount debited 2463",
+    "true": "Other",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "₹4248 payment successful",
+    "true": "Other",
+    "predicted": "Bills"
+  },
+  {
+    "text": "Paid 3149 to Nike and Amazon",
+    "true": "Travel",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "amount debited 4498 INR",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "amount debited Rs 4441",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "Paid 3838 to Zomato and Zomato",
+    "true": "Travel",
+    "predicted": "Food"
+  },
+  {
+    "text": "Paid 3687 INR to Amazon and Uber",
+    "true": "Entertainment",
+    "predicted": "Shopping"
+  },
+  {
+    "text": "transaction completed 4247",
+    "true": "Other",
+    "predicted": "Food"
+  },
+  {
+    "text": "774 rs payment successful",
+    "true": "Other",
+    "predicted": "Shopping"
+  }
+]
