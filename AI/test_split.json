@@ -1,0 +1,2402 @@
+[
+  {
+    "text": "transaction completed 1442d ebited 51459",
+    "label": "Entertainment"
+  },
+  {
+    "text": "2757 rechArge Success 91751",
+    "label": "Bills"
+  },
+  {
+    "text": "Spent ₹4426 at Zomato",
+    "label": "Food"
+  },
+  {
+    "text": "1237 payment successful",
+    "label": "Food"
+  },
+  {
+    "text": "4961 paid",
+    "label": "Other"
+  },
+  {
+    "text": "3435 sent txn id 67035",
+    "label": "Food"
+  },
+  {
+    "text": "Paid 2058 OnlIne",
+    "label": "Entertainment"
+  },
+  {
+    "text": "transaction completed 765 success 34629",
+    "label": "Food"
+  },
+  {
+    "text": "Paid 2347 to Zomato",
+    "label": "Food"
+  },
+  {
+    "text": "2407 cab RidE tXn iD 68392",
+    "label": "Travel"
+  },
+  {
+    "text": "3344 Order placed credited 36122",
+    "label": "Food"
+  },
+  {
+    "text": "3618 rs payment successful",
+    "label": "Travel"
+  },
+  {
+    "text": "378 cab ride",
+    "label": "Travel"
+  },
+  {
+    "text": "1989 Order plAcEd",
+    "label": "Entertainment"
+  },
+  {
+    "text": "2977 order placed",
+    "label": "Shopping"
+  },
+  {
+    "text": "Zomato charged 445 rs",
+    "label": "Shopping"
+  },
+  {
+    "text": "4591 orDER placEd",
+    "label": "Entertainment"
+  },
+  {
+    "text": "Paid 2778 rs to Flipkart",
+    "label": "Food"
+  },
+  {
+    "text": "3156 SPeNt ViA uPi crediTed 95373",
+    "label": "Shopping"
+  },
+  {
+    "text": "1329 spent Via UpI",
+    "label": "Travel"
+  },
+  {
+    "text": "Flipkart charged Rs 2170",
+    "label": "Food"
+  },
+  {
+    "text": "Paid Rs 664 to Uber",
+    "label": "Travel"
+  },
+  {
+    "text": "Amazon charged 213 rs",
+    "label": "Entertainment"
+  },
+  {
+    "text": "1983 debited upi ref 42894",
+    "label": "Other"
+  },
+  {
+    "text": "3027 Bill paid Credited 33485",
+    "label": "Food"
+  },
+  {
+    "text": "2090 SpeNT via uPi success 35033",
+    "label": "Shopping"
+  },
+  {
+    "text": "Spent 2273 INR at Flipkart",
+    "label": "Bills"
+  },
+  {
+    "text": "Zomato charged ₹1056",
+    "label": "Food"
+  },
+  {
+    "text": "Spent ₹2649 at Amazon",
+    "label": "Bills"
+  },
+  {
+    "text": "Swiggy charged ₹4061",
+    "label": "Shopping"
+  },
+  {
+    "text": "2351 cab RIdE upi reF 69490",
+    "label": "Shopping"
+  },
+  {
+    "text": "4966 oRdeR plaCEd",
+    "label": "Entertainment"
+  },
+  {
+    "text": "4764 RechArGE debited 62518",
+    "label": "Bills"
+  },
+  {
+    "text": "1601 caB Ride",
+    "label": "Bills"
+  },
+  {
+    "text": "Spent 2455 at Uber",
+    "label": "Travel"
+  },
+  {
+    "text": "Spent 3898 INR at Netflix",
+    "label": "Entertainment"
+  },
+  {
+    "text": "1680 payment successful credited 82440",
+    "label": "Shopping"
+  },
+  {
+    "text": "Ola charged 500 rs",
+    "label": "Shopping"
+  },
+  {
+    "text": "287 cab rIDe",
+    "label": "Food"
+  },
+  {
+    "text": "97 sent success 15498",
+    "label": "Other"
+  },
+  {
+    "text": "1302 payment successful credited 68133",
+    "label": "Travel"
+  },
+  {
+    "text": "Flipkart charged 612 rs",
+    "label": "Other"
+  },
+  {
+    "text": "Spent Rs 1929 at Uber",
+    "label": "Travel"
+  },
+  {
+    "text": "Paid 4548 INR to Airtel",
+    "label": "Other"
+  },
+  {
+    "text": "2321 oRdEr placeD",
+    "label": "Shopping"
+  },
+  {
+    "text": "3939 caB riDe",
+    "label": "Entertainment"
+  },
+  {
+    "text": "Paid ₹1376 to Airtel",
+    "label": "Other"
+  },
+  {
+    "text": "Paid ₹57 to Amazon",
+    "label": "Entertainment"
+  },
+  {
+    "text": "2403 bill paid dEBiTEd 38911",
+    "label": "Travel"
+  },
+  {
+    "text": "Flipkart charged 1998",
+    "label": "Entertainment"
+  },
+  {
+    "text": "653 paid credited 76443",
+    "label": "Travel"
+  },
+  {
+    "text": "₹1945 debited success 72538",
+    "label": "Travel"
+  },
+  {
+    "text": "2352 paid",
+    "label": "Bills"
+  },
+  {
+    "text": "Spent 247 at Netflix",
+    "label": "Bills"
+  },
+  {
+    "text": "Spent 4019 at Airtel",
+    "label": "Other"
+  },
+  {
+    "text": "2885 sent upi ref 71600",
+    "label": "Bills"
+  },
+  {
+    "text": "Paid Rs 678 to Jio",
+    "label": "Other"
+  },
+  {
+    "text": "Flipkart charged 4730",
+    "label": "Travel"
+  },
+  {
+    "text": "2689 sUbsCriPtIon Txn Id 30652",
+    "label": "Bills"
+  },
+  {
+    "text": "Flipkart charged 2243 INR",
+    "label": "Travel"
+  },
+  {
+    "text": "Spent 1541 rs at Flipkart",
+    "label": "Food"
+  },
+  {
+    "text": "Paid 431 INR to Jio",
+    "label": "Other"
+  },
+  {
+    "text": "Spent 2203 rs at Netflix",
+    "label": "Entertainment"
+  },
+  {
+    "text": "4956 OrDeR pLaced",
+    "label": "Travel"
+  },
+  {
+    "text": "Spotify charged 82 INR",
+    "label": "Bills"
+  },
+  {
+    "text": "Spent Rs 1097 at Ola",
+    "label": "Shopping"
+  },
+  {
+    "text": "Uber charged 2325",
+    "label": "Travel"
+  },
+  {
+    "text": "3442 suBScripTion sucCeSs 80113",
+    "label": "Entertainment"
+  },
+  {
+    "text": "Spent Rs 3092 at Spotify",
+    "label": "Travel"
+  },
+  {
+    "text": "448 transferred credited 97697",
+    "label": "Bills"
+  },
+  {
+    "text": "Netflix charged 501",
+    "label": "Entertainment"
+  },
+  {
+    "text": "Spent 729 INR at Flipkart",
+    "label": "Bills"
+  },
+  {
+    "text": "2460 spEnt vIa upi sUcCess 43477",
+    "label": "Bills"
+  },
+  {
+    "text": "paid 1227 onLine DebiTed 71205",
+    "label": "Shopping"
+  },
+  {
+    "text": "Paid ₹1809 to Flipkart",
+    "label": "Bills"
+  },
+  {
+    "text": "Spent Rs 2580 at Amazon",
+    "label": "Entertainment"
+  },
+  {
+    "text": "PaiD 832 onLiNE CRedited 32212",
+    "label": "Shopping"
+  },
+  {
+    "text": "Airtel charged ₹1471",
+    "label": "Bills"
+  },
+  {
+    "text": "Paid 4064 Online creDItEd 79270",
+    "label": "Travel"
+  },
+  {
+    "text": "4516 Cab rIde UpI rEf 73386",
+    "label": "Food"
+  },
+  {
+    "text": "paid 4088 onlinE UpI ref 52474",
+    "label": "Travel"
+  },
+  {
+    "text": "1903 transferred",
+    "label": "Shopping"
+  },
+  {
+    "text": "Paid 4730 to Netflix",
+    "label": "Bills"
+  },
+  {
+    "text": "Paid Rs 2182 to Uber",
+    "label": "Travel"
+  },
+  {
+    "text": "414 payment successful debited 25700",
+    "label": "Bills"
+  },
+  {
+    "text": "1366 apid",
+    "label": "Other"
+  },
+  {
+    "text": "Spent 3393 INR at Netflix",
+    "label": "Bills"
+  },
+  {
+    "text": "3831 paid debited 61073",
+    "label": "Other"
+  },
+  {
+    "text": "Spent 1190 at Spotify",
+    "label": "Entertainment"
+  },
+  {
+    "text": "paid 3957 onliNe SuCcess 73185",
+    "label": "Food"
+  },
+  {
+    "text": "1901 paid creditde 74048",
+    "label": "Entertainment"
+  },
+  {
+    "text": "transaction completed 3080",
+    "label": "Food"
+  },
+  {
+    "text": "3202 paid",
+    "label": "Travel"
+  },
+  {
+    "text": "Spent Rs 2785 at Spotify",
+    "label": "Other"
+  },
+  {
+    "text": "2039 INR payment successful",
+    "label": "Other"
+  },
+  {
+    "text": "4537 ordEr PlacEd",
+    "label": "Entertainment"
+  },
+  {
+    "text": "Paid Rs 4888 to Spotify",
+    "label": "Bills"
+  },
+  {
+    "text": "3122 cab riDe uPi ref 52428",
+    "label": "Shopping"
+  },
+  {
+    "text": "3666 bIll paid succESs 83789",
+    "label": "Other"
+  },
+  {
+    "text": "Spent ₹4066 at Airtel",
+    "label": "Bills"
+  },
+  {
+    "text": "Ola charged 4231",
+    "label": "Other"
+  },
+  {
+    "text": "Zomato charged ₹4808",
+    "label": "Food"
+  },
+  {
+    "text": "pAid 4595 ONLine crediteD 14626",
+    "label": "Travel"
+  },
+  {
+    "text": "Spent Rs 952 at Netflix",
+    "label": "Bills"
+  },
+  {
+    "text": "3837 rs payment successful debited 80891",
+    "label": "Travel"
+  },
+  {
+    "text": "3896 spent via upi upi Ref 82701",
+    "label": "Food"
+  },
+  {
+    "text": "Spent 3760 INR at Spotify",
+    "label": "Food"
+  },
+  {
+    "text": "Uber charged 3885 rs",
+    "label": "Travel"
+  },
+  {
+    "text": "transaction completed 273 txn id 84352",
+    "label": "Travel"
+  },
+  {
+    "text": "Rs 3008 debited",
+    "label": "Food"
+  },
+  {
+    "text": "3891 cAB riDe success 86261",
+    "label": "Food"
+  },
+  {
+    "text": "1819 INR payment successful success 16991",
+    "label": "Food"
+  },
+  {
+    "text": "810 bilL Paid credIted 80116",
+    "label": "Shopping"
+  },
+  {
+    "text": "Swiggy charged 367",
+    "label": "Shopping"
+  },
+  {
+    "text": "transaction completed 4865 upi ref8 7423",
+    "label": "Food"
+  },
+  {
+    "text": "2955 transferred txn id 76246",
+    "label": "Other"
+  },
+  {
+    "text": "Rs 3684 debited debited 68102",
+    "label": "Entertainment"
+  },
+  {
+    "text": "Spent 4301 rs at Uber",
+    "label": "Travel"
+  },
+  {
+    "text": "transaction completed 3051",
+    "label": "Food"
+  },
+  {
+    "text": "Flipkart charged ₹2007",
+    "label": "Bills"
+  },
+  {
+    "text": "969 sent upi ref 22995",
+    "label": "Shopping"
+  },
+  {
+    "text": "4605 paid txn id 75123",
+    "label": "Food"
+  },
+  {
+    "text": "Spent ₹2374 at Jio",
+    "label": "Other"
+  },
+  {
+    "text": "Netflix charged Rs 2557",
+    "label": "Bills"
+  },
+  {
+    "text": "2426 Bill paID",
+    "label": "Food"
+  },
+  {
+    "text": "987 RechARGe upi ReF 32994",
+    "label": "Entertainment"
+  },
+  {
+    "text": "4639 rs debited success 45728",
+    "label": "Food"
+  },
+  {
+    "text": "transaction completed 2800 upi ref 81564",
+    "label": "Bills"
+  },
+  {
+    "text": "1922 SuBscRipTiOn txN id 48934",
+    "label": "Other"
+  },
+  {
+    "text": "R s265 debited",
+    "label": "Travel"
+  },
+  {
+    "text": "2036 Bill paid crEdIted 28402",
+    "label": "Travel"
+  },
+  {
+    "text": "paid 3827 OnliNe",
+    "label": "Bills"
+  },
+  {
+    "text": "Spent Rs 276 at Jio",
+    "label": "Entertainment"
+  },
+  {
+    "text": "transaction completed 257 credited 62956",
+    "label": "Shopping"
+  },
+  {
+    "text": "Paid ₹2840 to Zomato",
+    "label": "Food"
+  },
+  {
+    "text": "Paid 2511 Online upi reF 42425",
+    "label": "Food"
+  },
+  {
+    "text": "Spotify charged 1722 INR",
+    "label": "Food"
+  },
+  {
+    "text": "Spent 2465 rs at Zomato",
+    "label": "Food"
+  },
+  {
+    "text": "73 sent txn id 86882",
+    "label": "Food"
+  },
+  {
+    "text": "2728 ordeR placed SucCEss 88702",
+    "label": "Bills"
+  },
+  {
+    "text": "3783 rEChaRGe upI Ref 42956",
+    "label": "Bills"
+  },
+  {
+    "text": "3132 ORDer placed",
+    "label": "Entertainment"
+  },
+  {
+    "text": "3880 INR debited success 21431",
+    "label": "Travel"
+  },
+  {
+    "text": "PAid 1166 online",
+    "label": "Entertainment"
+  },
+  {
+    "text": "Paid 1838 rs to Swiggy",
+    "label": "Shopping"
+  },
+  {
+    "text": "1145 debited upi ref 45702",
+    "label": "Travel"
+  },
+  {
+    "text": "Zomato charged 2654 rs",
+    "label": "Food"
+  },
+  {
+    "text": "1544 oRder plAced suCcESs 44994",
+    "label": "Other"
+  },
+  {
+    "text": "188 oRdEr Placed txn id 60936",
+    "label": "Food"
+  },
+  {
+    "text": "transaction completed 2118 credited 65959",
+    "label": "Shopping"
+  },
+  {
+    "text": "2157 piad",
+    "label": "Entertainment"
+  },
+  {
+    "text": "paiD 1307 oNLinE crediteD 26424",
+    "label": "Entertainment"
+  },
+  {
+    "text": "54 paid credited 13316",
+    "label": "Other"
+  },
+  {
+    "text": "4870 speNT via uPi",
+    "label": "Shopping"
+  },
+  {
+    "text": "Ola charged 3338 rs",
+    "label": "Entertainment"
+  },
+  {
+    "text": "1748 rs debited",
+    "label": "Other"
+  },
+  {
+    "text": "Ola charged Rs 1360",
+    "label": "Food"
+  },
+  {
+    "text": "3278 SpeNt vIA upi txn id 15375",
+    "label": "Shopping"
+  },
+  {
+    "text": "Paid 3913 INR to Ola",
+    "label": "Entertainment"
+  },
+  {
+    "text": "paId 577 oNliNe sUccEsS 38847",
+    "label": "Bills"
+  },
+  {
+    "text": "Paid Rs 1630 to Swiggy",
+    "label": "Food"
+  },
+  {
+    "text": "4820 paid debited 10924",
+    "label": "Shopping"
+  },
+  {
+    "text": "transaction completed 3444",
+    "label": "Bills"
+  },
+  {
+    "text": "Jio charged Rs 1901",
+    "label": "Food"
+  },
+  {
+    "text": "506 paid txn id 72261",
+    "label": "Other"
+  },
+  {
+    "text": "810 spent vIa Upi",
+    "label": "Other"
+  },
+  {
+    "text": "2663 transferred txn id 72458",
+    "label": "Entertainment"
+  },
+  {
+    "text": "1779 transferred credited 38162",
+    "label": "Other"
+  },
+  {
+    "text": "paId 4654 oNline succesS 26254",
+    "label": "Food"
+  },
+  {
+    "text": "4267 sent",
+    "label": "Entertainment"
+  },
+  {
+    "text": "transaction completed 4168 debited 80651",
+    "label": "Other"
+  },
+  {
+    "text": "3712 INR payment successfuld ebited 82694",
+    "label": "Shopping"
+  },
+  {
+    "text": "2852 debited",
+    "label": "Other"
+  },
+  {
+    "text": "Amazon charged 1881",
+    "label": "Entertainment"
+  },
+  {
+    "text": "1689 transferred txn id 58912",
+    "label": "Travel"
+  },
+  {
+    "text": "4731 payment successful",
+    "label": "Shopping"
+  },
+  {
+    "text": "Paid 1828 INR to Swiggy",
+    "label": "Shopping"
+  },
+  {
+    "text": "Ola charged Rs 2918",
+    "label": "Travel"
+  },
+  {
+    "text": "4663 paid",
+    "label": "Shopping"
+  },
+  {
+    "text": "Uber charged 2463 rs",
+    "label": "Travel"
+  },
+  {
+    "text": "305s ent",
+    "label": "Other"
+  },
+  {
+    "text": "Spent Rs 1277 at Ola",
+    "label": "Entertainment"
+  },
+  {
+    "text": "4131 ordeR pLacEd dEBiTed 82373",
+    "label": "Shopping"
+  },
+  {
+    "text": "2039 cab Ride",
+    "label": "Bills"
+  },
+  {
+    "text": "2831 transferred",
+    "label": "Entertainment"
+  },
+  {
+    "text": "3494 rEChaRge",
+    "label": "Bills"
+  },
+  {
+    "text": "189 SUbscriptIon",
+    "label": "Other"
+  },
+  {
+    "text": "3905 sPeNt viA UpI SucCeSs 67733",
+    "label": "Entertainment"
+  },
+  {
+    "text": "Spent 3661 INR at Uber",
+    "label": "Food"
+  },
+  {
+    "text": "Paid ₹3554 to Airtel",
+    "label": "Other"
+  },
+  {
+    "text": "251 debited success 13805",
+    "label": "Shopping"
+  },
+  {
+    "text": "1374 BiLL paid SucCeSs 83731",
+    "label": "Travel"
+  },
+  {
+    "text": "1652 transferred",
+    "label": "Shopping"
+  },
+  {
+    "text": "4783 sent success 82148",
+    "label": "Travel"
+  },
+  {
+    "text": "2367 sent",
+    "label": "Bills"
+  },
+  {
+    "text": "Flipkart charged 3989",
+    "label": "Entertainment"
+  },
+  {
+    "text": "3061 bilL pAiD sucCesS 19362",
+    "label": "Shopping"
+  },
+  {
+    "text": "Spent 1368 at Flipkart",
+    "label": "Shopping"
+  },
+  {
+    "text": "Zomato charged 3999",
+    "label": "Food"
+  },
+  {
+    "text": "Spent Rs 4011 at Zomato",
+    "label": "Food"
+  },
+  {
+    "text": "Zomato charged 540 rs",
+    "label": "Food"
+  },
+  {
+    "text": "Spotify charged Rs 1210",
+    "label": "Shopping"
+  },
+  {
+    "text": "3450 spent viA upi CredITed 47364",
+    "label": "Shopping"
+  },
+  {
+    "text": "Uber charged 79 rs",
+    "label": "Travel"
+  },
+  {
+    "text": "Paid ₹1328 to Amazon",
+    "label": "Other"
+  },
+  {
+    "text": "Spent Rs 4752 at Flipkart",
+    "label": "Entertainment"
+  },
+  {
+    "text": "1072 oRdeR plAced",
+    "label": "Food"
+  },
+  {
+    "text": "891 sUbscrIptiON",
+    "label": "Shopping"
+  },
+  {
+    "text": "3269 sent",
+    "label": "Entertainment"
+  },
+  {
+    "text": "₹2972 payment successful",
+    "label": "Travel"
+  },
+  {
+    "text": "Spent Rs 3011 at Ola",
+    "label": "Bills"
+  },
+  {
+    "text": "₹296 payment successful",
+    "label": "Food"
+  },
+  {
+    "text": "2339 bIll paId tXn id 70094",
+    "label": "Bills"
+  },
+  {
+    "text": "1741 subscription crEdiTed 54832",
+    "label": "Bills"
+  },
+  {
+    "text": "4547 sent upi ref 39994",
+    "label": "Other"
+  },
+  {
+    "text": "Paid 786 INR to Ola",
+    "label": "Bills"
+  },
+  {
+    "text": "Spent 3484 INR at Amazon",
+    "label": "Entertainment"
+  },
+  {
+    "text": "1467 rs payment successful debited 20113",
+    "label": "Bills"
+  },
+  {
+    "text": "Airtel charged ₹3508",
+    "label": "Bills"
+  },
+  {
+    "text": "transaction completed 1689",
+    "label": "Other"
+  },
+  {
+    "text": "Paid ₹82 to Netflix",
+    "label": "Entertainment"
+  },
+  {
+    "text": "1252 rEchARgE tXn iD 33675",
+    "label": "Food"
+  },
+  {
+    "text": "Zomato charged 3830 rs",
+    "label": "Food"
+  },
+  {
+    "text": "3612 transferred success 82144",
+    "label": "Food"
+  },
+  {
+    "text": "Spent 102 INR at Swiggy",
+    "label": "Food"
+  },
+  {
+    "text": "1730 BIll paId TXn iD 50181",
+    "label": "Entertainment"
+  },
+  {
+    "text": "2839 cAB Ride",
+    "label": "Entertainment"
+  },
+  {
+    "text": "pAiD 1009 onLine",
+    "label": "Food"
+  },
+  {
+    "text": "2692 caB ridE SuccesS 76306",
+    "label": "Travel"
+  },
+  {
+    "text": "1652 Bill Paid Txn Id 63365",
+    "label": "Shopping"
+  },
+  {
+    "text": "2039 caB ride",
+    "label": "Other"
+  },
+  {
+    "text": "1072 cab ridE sUccess 60481",
+    "label": "Entertainment"
+  },
+  {
+    "text": "Spent 570 rs at Amazon",
+    "label": "Entertainment"
+  },
+  {
+    "text": "4894 debited credited 50728",
+    "label": "Travel"
+  },
+  {
+    "text": "515 paid",
+    "label": "Shopping"
+  },
+  {
+    "text": "1994 r sdebited",
+    "label": "Other"
+  },
+  {
+    "text": "Jio charged 2366",
+    "label": "Shopping"
+  },
+  {
+    "text": "2282 cab riDE txn id 87388",
+    "label": "Shopping"
+  },
+  {
+    "text": "4675 transferred credited 17497",
+    "label": "Other"
+  },
+  {
+    "text": "699 ordER placED dEBiteD 42380",
+    "label": "Food"
+  },
+  {
+    "text": "Flipkart charged ₹2858",
+    "label": "Shopping"
+  },
+  {
+    "text": "2610 debited txn id 87018",
+    "label": "Entertainment"
+  },
+  {
+    "text": "614 transferred debited 86128",
+    "label": "Food"
+  },
+  {
+    "text": "Jio charged ₹2139",
+    "label": "Food"
+  },
+  {
+    "text": "Paid 2103 rs to Amazon",
+    "label": "Entertainment"
+  },
+  {
+    "text": "1635 spent via upi uPI ref 72240",
+    "label": "Entertainment"
+  },
+  {
+    "text": "185 CaB ride credIted 41747",
+    "label": "Other"
+  },
+  {
+    "text": "3887 Bill PAId TxN Id 65460",
+    "label": "Bills"
+  },
+  {
+    "text": "Uber charged Rs 4913",
+    "label": "Travel"
+  },
+  {
+    "text": "Paid Rs 2720 to Spotify",
+    "label": "Food"
+  },
+  {
+    "text": "Paid Rs 1268 to Amazon",
+    "label": "Shopping"
+  },
+  {
+    "text": "Paid 3378 rs to Uber",
+    "label": "Travel"
+  },
+  {
+    "text": "2184 SubscRiption suCcess 77853",
+    "label": "Shopping"
+  },
+  {
+    "text": "Paid Rs 4843 to Spotify",
+    "label": "Bills"
+  },
+  {
+    "text": "Spent ₹2735 at Zomato",
+    "label": "Food"
+  },
+  {
+    "text": "Paid 1853 to Uber",
+    "label": "Travel"
+  },
+  {
+    "text": "2434 sent success 36042",
+    "label": "Travel"
+  },
+  {
+    "text": "Paid 4971 INR to Uber",
+    "label": "Travel"
+  },
+  {
+    "text": "2668 Cab ride tXn iD 30377",
+    "label": "Travel"
+  },
+  {
+    "text": "293 oRdEr placEd Success 64634",
+    "label": "Food"
+  },
+  {
+    "text": "4106 Bill paId",
+    "label": "Travel"
+  },
+  {
+    "text": "₹1187 payment successful",
+    "label": "Entertainment"
+  },
+  {
+    "text": "Spent 2091 at Uber",
+    "label": "Travel"
+  },
+  {
+    "text": "Netflix charged 369 rs",
+    "label": "Entertainment"
+  },
+  {
+    "text": "Amazon charged Rs 4764",
+    "label": "Shopping"
+  },
+  {
+    "text": "Paid ₹292 to Jio",
+    "label": "Other"
+  },
+  {
+    "text": "4940 INR debited",
+    "label": "Bills"
+  },
+  {
+    "text": "transaction completed 3899 credited 32336",
+    "label": "Travel"
+  },
+  {
+    "text": "958 rs debited debited 50382",
+    "label": "Bills"
+  },
+  {
+    "text": "transaction completed 4187",
+    "label": "Bills"
+  },
+  {
+    "text": "Spent ₹4903 at Uber",
+    "label": "Travel"
+  },
+  {
+    "text": "Paid 3376 INR to Amazon",
+    "label": "Shopping"
+  },
+  {
+    "text": "Paid Rs 1502 to Flipkart",
+    "label": "Shopping"
+  },
+  {
+    "text": "4249 sent",
+    "label": "Bills"
+  },
+  {
+    "text": "Paid 3928 INR to Airtel",
+    "label": "Bills"
+  },
+  {
+    "text": "Spent 509 rs at Ola",
+    "label": "Bills"
+  },
+  {
+    "text": "Jio charged ₹2921",
+    "label": "Food"
+  },
+  {
+    "text": "Paid 4321 INR to Netflix",
+    "label": "Entertainment"
+  },
+  {
+    "text": "Uber charged 1558",
+    "label": "Travel"
+  },
+  {
+    "text": "2546 sent txn id 99454",
+    "label": "Bills"
+  },
+  {
+    "text": "2846 order PLaCed upi ref 99208",
+    "label": "Travel"
+  },
+  {
+    "text": "Uber charged 2941 INR",
+    "label": "Travel"
+  },
+  {
+    "text": "3157 rechArgE",
+    "label": "Bills"
+  },
+  {
+    "text": "Uber charged ₹4090",
+    "label": "Travel"
+  },
+  {
+    "text": "973 transferred",
+    "label": "Bills"
+  },
+  {
+    "text": "3864 rechaRge upi rEF 99943",
+    "label": "Entertainment"
+  },
+  {
+    "text": "Paid 3219 rs to Spotify",
+    "label": "Entertainment"
+  },
+  {
+    "text": "Spent 1018 rs at Airtel",
+    "label": "Bills"
+  },
+  {
+    "text": "203 sPent Via upi sUCCEss 33512",
+    "label": "Shopping"
+  },
+  {
+    "text": "Paid 1719 rs to Jio",
+    "label": "Food"
+  },
+  {
+    "text": "paid 3071 onlINe CredIted 57874",
+    "label": "Entertainment"
+  },
+  {
+    "text": "Spent ₹2291 at Ola",
+    "label": "Other"
+  },
+  {
+    "text": "transaction completed 4932 txn id 30379",
+    "label": "Travel"
+  },
+  {
+    "text": "Spent 4017 INR at Swiggy",
+    "label": "Shopping"
+  },
+  {
+    "text": "223 INR payment successful",
+    "label": "Shopping"
+  },
+  {
+    "text": "1954 orDer plAced",
+    "label": "Bills"
+  },
+  {
+    "text": "Ola charged Rs 4421",
+    "label": "Other"
+  },
+  {
+    "text": "Ola charged 4797 rs",
+    "label": "Other"
+  },
+  {
+    "text": "Paid Rs 3997 to Spotify",
+    "label": "Other"
+  },
+  {
+    "text": "Paid 4085 to Uber",
+    "label": "Travel"
+  },
+  {
+    "text": "4522 transferred upi ref 68700",
+    "label": "Travel"
+  },
+  {
+    "text": "1143 rs debited success 37946",
+    "label": "Travel"
+  },
+  {
+    "text": "Spent ₹1591 at Amazon",
+    "label": "Shopping"
+  },
+  {
+    "text": "Netflix charged 3369 INR",
+    "label": "Entertainment"
+  },
+  {
+    "text": "Spotify charged 3066 INR",
+    "label": "Bills"
+  },
+  {
+    "text": "Paid Rs 3668 to Amazon",
+    "label": "Shopping"
+  },
+  {
+    "text": "1575 transferred upi ref 59020",
+    "label": "Other"
+  },
+  {
+    "text": "3119 Spent via Upi deBited 20903",
+    "label": "Other"
+  },
+  {
+    "text": "403 payment successful upi ref 19471",
+    "label": "Other"
+  },
+  {
+    "text": "₹3461 debited debited 14480",
+    "label": "Entertainment"
+  },
+  {
+    "text": "₹341 payment successful",
+    "label": "Travel"
+  },
+  {
+    "text": "3853 ordeR placeD",
+    "label": "Travel"
+  },
+  {
+    "text": "transaction completed 4706 txn id 91282",
+    "label": "Travel"
+  },
+  {
+    "text": "Amazon charged 1283",
+    "label": "Shopping"
+  },
+  {
+    "text": "1880 sent",
+    "label": "Travel"
+  },
+  {
+    "text": "Swiggy charged Rs 3286",
+    "label": "Shopping"
+  },
+  {
+    "text": "Spotify charged 3428",
+    "label": "Food"
+  },
+  {
+    "text": "Paid 2393 to Zomato",
+    "label": "Bills"
+  },
+  {
+    "text": "4197 order PlacED",
+    "label": "Entertainment"
+  },
+  {
+    "text": "Zomato charged 1286",
+    "label": "Food"
+  },
+  {
+    "text": "323 sent success 90413",
+    "label": "Food"
+  },
+  {
+    "text": "Paid Rs 3667 to Netflix",
+    "label": "Other"
+  },
+  {
+    "text": "2262 bILl paiD credited 23825",
+    "label": "Food"
+  },
+  {
+    "text": "3444 suBscRiptiOn UPi Ref 64588",
+    "label": "Other"
+  },
+  {
+    "text": "316 transferred credtied 28826",
+    "label": "Shopping"
+  },
+  {
+    "text": "3476 sent success 66781",
+    "label": "Travel"
+  },
+  {
+    "text": "Paid 1637 rs to Airtel",
+    "label": "Other"
+  },
+  {
+    "text": "1726 rechArgE",
+    "label": "Travel"
+  },
+  {
+    "text": "Flipkart charged Rs 4766",
+    "label": "Travel"
+  },
+  {
+    "text": "Spent 3444 at Uber",
+    "label": "Travel"
+  },
+  {
+    "text": "2395 Spent via uPI SuCcess 24610",
+    "label": "Other"
+  },
+  {
+    "text": "Paid 2198 rs to Uber",
+    "label": "Travel"
+  },
+  {
+    "text": "Spent Rs 2278 at Uber",
+    "label": "Travel"
+  },
+  {
+    "text": "pAiD 3904 onlINe",
+    "label": "Entertainment"
+  },
+  {
+    "text": "3419 subscriPTiOn",
+    "label": "Bills"
+  },
+  {
+    "text": "3715 paid upi ref 99890",
+    "label": "Entertainment"
+  },
+  {
+    "text": "₹1074 debited",
+    "label": "Food"
+  },
+  {
+    "text": "Spent ₹2347 at Zomato",
+    "label": "Food"
+  },
+  {
+    "text": "419 INR debited",
+    "label": "Bills"
+  },
+  {
+    "text": "Amazon charged 634",
+    "label": "Shopping"
+  },
+  {
+    "text": "2305 sent debited 59043",
+    "label": "Food"
+  },
+  {
+    "text": "1441 RecharGe dEbitEd 79163",
+    "label": "Travel"
+  },
+  {
+    "text": "Spent Rs 3869 at Airtel",
+    "label": "Travel"
+  },
+  {
+    "text": "4631 paid credited 29936",
+    "label": "Shopping"
+  },
+  {
+    "text": "Amazon charged Rs 4900",
+    "label": "Entertainment"
+  },
+  {
+    "text": "Paid ₹1925 to Flipkart",
+    "label": "Shopping"
+  },
+  {
+    "text": "Spent 1857 INR at Airtel",
+    "label": "Other"
+  },
+  {
+    "text": "Spent Rs 3275 at Spotify",
+    "label": "Shopping"
+  },
+  {
+    "text": "3575 transferred success 37612",
+    "label": "Entertainment"
+  },
+  {
+    "text": "2109 bill pAId SUCcESs 53215",
+    "label": "Other"
+  },
+  {
+    "text": "Paid ₹609 to Airtel",
+    "label": "Other"
+  },
+  {
+    "text": "Paid ₹3469 to Jio",
+    "label": "Entertainment"
+  },
+  {
+    "text": "4388 paid",
+    "label": "Other"
+  },
+  {
+    "text": "250 recHaRge credited 94451",
+    "label": "Entertainment"
+  },
+  {
+    "text": "2866 order plAcED",
+    "label": "Travel"
+  },
+  {
+    "text": "1435 rs debited upi ref 81299",
+    "label": "Entertainment"
+  },
+  {
+    "text": "4880 subscription Upi ref 44000",
+    "label": "Bills"
+  },
+  {
+    "text": "147 biLl paid",
+    "label": "Entertainment"
+  },
+  {
+    "text": "Spent 2744 INR at Netflix",
+    "label": "Bills"
+  },
+  {
+    "text": "3480 spENT via uPi txn iD 53863",
+    "label": "Shopping"
+  },
+  {
+    "text": "163 INR debited",
+    "label": "Entertainment"
+  },
+  {
+    "text": "paiD 4270 OnliNe UpI rEF 95828",
+    "label": "Shopping"
+  },
+  {
+    "text": "4816 rechArGe",
+    "label": "Bills"
+  },
+  {
+    "text": "paid 2359 onLine upi ref 79582",
+    "label": "Food"
+  },
+  {
+    "text": "Paid 877 to Swiggy",
+    "label": "Food"
+  },
+  {
+    "text": "198 rechargE SUcCess 79042",
+    "label": "Other"
+  },
+  {
+    "text": "2320 spent via Upi TXn id 32801",
+    "label": "Food"
+  },
+  {
+    "text": "1775 biLl Paid",
+    "label": "Shopping"
+  },
+  {
+    "text": "1775 subscription suCcesS 70081",
+    "label": "Bills"
+  },
+  {
+    "text": "transaction completed 4378 txn id 72689",
+    "label": "Entertainment"
+  },
+  {
+    "text": "Spent 2972 rs at Airtel",
+    "label": "Other"
+  },
+  {
+    "text": "Paid 2198 INR to Spotify",
+    "label": "Bills"
+  },
+  {
+    "text": "2586 rechaRge",
+    "label": "Other"
+  },
+  {
+    "text": "1269 CAb Ride DebiTeD 32933",
+    "label": "Travel"
+  },
+  {
+    "text": "2997 paid debited 76556",
+    "label": "Travel"
+  },
+  {
+    "text": "Netflix charged Rs 4690",
+    "label": "Bills"
+  },
+  {
+    "text": "829 oRder placed txn id 78728",
+    "label": "Shopping"
+  },
+  {
+    "text": "2681 INR debited",
+    "label": "Other"
+  },
+  {
+    "text": "2053 SuBscriptioN",
+    "label": "Shopping"
+  },
+  {
+    "text": "₹4279 debited",
+    "label": "Travel"
+  },
+  {
+    "text": "1702 paid success 70925",
+    "label": "Bills"
+  },
+  {
+    "text": "Paid 3429 ONline suCcess 40268",
+    "label": "Bills"
+  },
+  {
+    "text": "Spent Rs 470 at Zomato",
+    "label": "Food"
+  },
+  {
+    "text": "Spent ₹818 at Ola",
+    "label": "Other"
+  },
+  {
+    "text": "transaction completed 298 debited 71722",
+    "label": "Travel"
+  },
+  {
+    "text": "4594 bilL paid",
+    "label": "Shopping"
+  },
+  {
+    "text": "2898 Cab rIde",
+    "label": "Bills"
+  },
+  {
+    "text": "1535 subscripTion UPi Ref 19846",
+    "label": "Shopping"
+  },
+  {
+    "text": "234 biLL paid txN id 51128",
+    "label": "Food"
+  },
+  {
+    "text": "2781 spent via upI",
+    "label": "Other"
+  },
+  {
+    "text": "4278 cAb ride uPi reF 85152",
+    "label": "Other"
+  },
+  {
+    "text": "Spent 3276 at Amazon",
+    "label": "Shopping"
+  },
+  {
+    "text": "PaId 4723 onlIne",
+    "label": "Bills"
+  },
+  {
+    "text": "Paid ₹4272 to Amazon",
+    "label": "Shopping"
+  },
+  {
+    "text": "1482 speNt viA uPI",
+    "label": "Bills"
+  },
+  {
+    "text": "transaction completed 3484",
+    "label": "Travel"
+  },
+  {
+    "text": "transaction completed 1232",
+    "label": "Other"
+  },
+  {
+    "text": "Flipkart charged ₹2622",
+    "label": "Travel"
+  },
+  {
+    "text": "3480 subsCriptIon upi ref 48365",
+    "label": "Shopping"
+  },
+  {
+    "text": "4617 sPent viA upi",
+    "label": "Food"
+  },
+  {
+    "text": "Paid 149 INR to Ola",
+    "label": "Other"
+  },
+  {
+    "text": "422 6sent",
+    "label": "Travel"
+  },
+  {
+    "text": "2994 rs payment successful credited 76296",
+    "label": "Other"
+  },
+  {
+    "text": "Jio charged 2220 rs",
+    "label": "Other"
+  },
+  {
+    "text": "paiD 130 Online uPI Ref 62433",
+    "label": "Travel"
+  },
+  {
+    "text": "Rs 4020 debited credited 34716",
+    "label": "Entertainment"
+  },
+  {
+    "text": "3275 trnasferred credited 11365",
+    "label": "Shopping"
+  },
+  {
+    "text": "Spent ₹837 at Airtel",
+    "label": "Other"
+  },
+  {
+    "text": "4646 BIll paiD",
+    "label": "Bills"
+  },
+  {
+    "text": "Paid 1505 to Amazon",
+    "label": "Entertainment"
+  },
+  {
+    "text": "2193 SpENT via Upi Txn iD 50874",
+    "label": "Travel"
+  },
+  {
+    "text": "4₹879 debited credited 91129",
+    "label": "Bills"
+  },
+  {
+    "text": "Paid ₹2141 to Jio",
+    "label": "Travel"
+  },
+  {
+    "text": "1740 transferred debited 35162",
+    "label": "Food"
+  },
+  {
+    "text": "4743 paid debited 47246",
+    "label": "Food"
+  },
+  {
+    "text": "Paid 572 rs to Swiggy",
+    "label": "Shopping"
+  },
+  {
+    "text": "2667 rs payment successful success 55717",
+    "label": "Food"
+  },
+  {
+    "text": "₹3405 debited success 59730",
+    "label": "Food"
+  },
+  {
+    "text": "Spent 3960 rs at Zomato",
+    "label": "Food"
+  },
+  {
+    "text": "3375 rs payment successufl",
+    "label": "Other"
+  },
+  {
+    "text": "Paid ₹2624 to Spotify",
+    "label": "Entertainment"
+  },
+  {
+    "text": "2421 paid",
+    "label": "Entertainment"
+  },
+  {
+    "text": "219 sent success 98029",
+    "label": "Bills"
+  },
+  {
+    "text": "Spent ₹52 at Uber",
+    "label": "Travel"
+  },
+  {
+    "text": "6198 paid",
+    "label": "Shopping"
+  },
+  {
+    "text": "Netflix charged 345",
+    "label": "Entertainment"
+  },
+  {
+    "text": "367 order pLacEd creDItED 74955",
+    "label": "Shopping"
+  },
+  {
+    "text": "1594 payment successful upi ref 78618",
+    "label": "Entertainment"
+  },
+  {
+    "text": "Spent 4707 rs at Flipkart",
+    "label": "Shopping"
+  },
+  {
+    "text": "3443 transferred upi ref 29843",
+    "label": "Travel"
+  },
+  {
+    "text": "972 bILL paid",
+    "label": "Other"
+  },
+  {
+    "text": "4167 paid debited 54661",
+    "label": "Entertainment"
+  },
+  {
+    "text": "4857 paid txn id 28970",
+    "label": "Travel"
+  },
+  {
+    "text": "Spent 1654 at Amazon",
+    "label": "Shopping"
+  },
+  {
+    "text": "595 sent credited 60218",
+    "label": "Food"
+  },
+  {
+    "text": "Spent ₹4654 at Airtel",
+    "label": "Bills"
+  },
+  {
+    "text": "Jio charged Rs 1549",
+    "label": "Other"
+  },
+  {
+    "text": "3032 sent",
+    "label": "Bills"
+  },
+  {
+    "text": "Zomato charged Rs 3707",
+    "label": "Food"
+  },
+  {
+    "text": "transaction completed 4167 upi ref 66117",
+    "label": "Travel"
+  },
+  {
+    "text": "Spotify charged 4983 rs",
+    "label": "Food"
+  },
+  {
+    "text": "Paid Rs 2551 to Jio",
+    "label": "Shopping"
+  },
+  {
+    "text": "Spent 4447 at Airtel",
+    "label": "Bills"
+  },
+  {
+    "text": "Paid Rs 4194 to Spotify",
+    "label": "Bills"
+  },
+  {
+    "text": "Spent Rs 2239 at Swiggy",
+    "label": "Food"
+  },
+  {
+    "text": "4741 reCHarge",
+    "label": "Travel"
+  },
+  {
+    "text": "Paid 4402 to Flipkart",
+    "label": "Bills"
+  },
+  {
+    "text": "3826 spent VIa upi DEbited 28584",
+    "label": "Other"
+  },
+  {
+    "text": "1223 sUbscRIptiOn sUccesS 29744",
+    "label": "Bills"
+  },
+  {
+    "text": "4915 paid txn id 91245",
+    "label": "Shopping"
+  },
+  {
+    "text": "Spent Rs 923 at Flipkart",
+    "label": "Travel"
+  },
+  {
+    "text": "Airtel charged 779 rs",
+    "label": "Other"
+  },
+  {
+    "text": "transaction completed 4359u pi ref 47298",
+    "label": "Entertainment"
+  },
+  {
+    "text": "Paid ₹1140 to Zomato",
+    "label": "Food"
+  },
+  {
+    "text": "Paid ₹4685 to Jio",
+    "label": "Bills"
+  },
+  {
+    "text": "transaction completed 4978",
+    "label": "Bills"
+  },
+  {
+    "text": "3118 order placed",
+    "label": "Food"
+  },
+  {
+    "text": "Spent 837 INR at Swiggy",
+    "label": "Shopping"
+  },
+  {
+    "text": "615 order placed",
+    "label": "Other"
+  },
+  {
+    "text": "3943 sUBScRiptIon sucCEss 92349",
+    "label": "Entertainment"
+  },
+  {
+    "text": "Paid ₹4103 to Flipkart",
+    "label": "Food"
+  },
+  {
+    "text": "1760 rEcHargE txn iD 97677",
+    "label": "Travel"
+  },
+  {
+    "text": "3235 recharge DEbiteD 62338",
+    "label": "Other"
+  },
+  {
+    "text": "Rs 4028 pyament successful",
+    "label": "Entertainment"
+  },
+  {
+    "text": "1299 biLL paId",
+    "label": "Travel"
+  },
+  {
+    "text": "1080 RechargE",
+    "label": "Shopping"
+  },
+  {
+    "text": "534 Cab ridE",
+    "label": "Other"
+  },
+  {
+    "text": "3041 Order plAcEd creDited 12669",
+    "label": "Food"
+  },
+  {
+    "text": "2704 transferred txn id 69928",
+    "label": "Shopping"
+  },
+  {
+    "text": "Rs 4697 payment sucecssful",
+    "label": "Other"
+  },
+  {
+    "text": "transaction compelted 2586 txn id 12057",
+    "label": "Shopping"
+  },
+  {
+    "text": "260 order plACed debItED 38084",
+    "label": "Food"
+  },
+  {
+    "text": "Paid 214 to Netflix",
+    "label": "Entertainment"
+  },
+  {
+    "text": "Jio charged 1130 INR",
+    "label": "Other"
+  },
+  {
+    "text": "Paid ₹2904 to Uber",
+    "label": "Travel"
+  },
+  {
+    "text": "990 paid",
+    "label": "Bills"
+  },
+  {
+    "text": "2736 SUbScripTiOn",
+    "label": "Food"
+  },
+  {
+    "text": "transaction comlpeted 3119",
+    "label": "Food"
+  },
+  {
+    "text": "Paid ₹2660 to Swiggy",
+    "label": "Food"
+  },
+  {
+    "text": "4027 Spent via upI",
+    "label": "Other"
+  },
+  {
+    "text": "937 biLl paiD success 66496",
+    "label": "Bills"
+  },
+  {
+    "text": "2542 ordeR placed",
+    "label": "Shopping"
+  },
+  {
+    "text": "paiD 1873 Online creDited 15695",
+    "label": "Food"
+  },
+  {
+    "text": "Spent 393 rs at Netflix",
+    "label": "Entertainment"
+  },
+  {
+    "text": "Flipkart charged 2418 rs",
+    "label": "Other"
+  },
+  {
+    "text": "Paid 1902 rs to Swiggy",
+    "label": "Food"
+  },
+  {
+    "text": "1951 subscriptioN",
+    "label": "Bills"
+  },
+  {
+    "text": "Uber charged 295 INR",
+    "label": "Travel"
+  },
+  {
+    "text": "2163 payment successful upi ref 55927",
+    "label": "Shopping"
+  },
+  {
+    "text": "Spent ₹2878 at Zomato",
+    "label": "Food"
+  },
+  {
+    "text": "Spent Rs 2854 at Airtel",
+    "label": "Other"
+  },
+  {
+    "text": "2969 INR payment successful",
+    "label": "Travel"
+  },
+  {
+    "text": "transaction completed 904",
+    "label": "Food"
+  },
+  {
+    "text": "Spent Rs 633 at Swiggy",
+    "label": "Shopping"
+  },
+  {
+    "text": "Paid Rs 4874 to Airtel",
+    "label": "Bills"
+  },
+  {
+    "text": "859 cab RiDe deBiteD 95203",
+    "label": "Bills"
+  },
+  {
+    "text": "Amazon charged 707 rs",
+    "label": "Shopping"
+  },
+  {
+    "text": "3580 sent debited 21683",
+    "label": "Entertainment"
+  },
+  {
+    "text": "Spent 3197 at Zomato",
+    "label": "Food"
+  },
+  {
+    "text": "4621 paid",
+    "label": "Food"
+  },
+  {
+    "text": "Spent Rs 3141 at Netflix",
+    "label": "Bills"
+  },
+  {
+    "text": "Ola charged 3945 rs",
+    "label": "Entertainment"
+  },
+  {
+    "text": "78 payment successful",
+    "label": "Travel"
+  },
+  {
+    "text": "3097 sent txn id 34390",
+    "label": "Other"
+  },
+  {
+    "text": "Uber charged ₹4851",
+    "label": "Travel"
+  },
+  {
+    "text": "1394 transfrered debited 34400",
+    "label": "Shopping"
+  },
+  {
+    "text": "3397 order placed sUCcEss 50718",
+    "label": "Entertainment"
+  },
+  {
+    "text": "2291 INR payment successful",
+    "label": "Other"
+  },
+  {
+    "text": "3218 reChaRge",
+    "label": "Bills"
+  },
+  {
+    "text": "2981 SPENT vIa uPi",
+    "label": "Other"
+  },
+  {
+    "text": "1521 subsCripTIOn",
+    "label": "Travel"
+  },
+  {
+    "text": "419 cab ridE Upi rEf 39388",
+    "label": "Travel"
+  },
+  {
+    "text": "Paid 2860 INR to Swiggy",
+    "label": "Shopping"
+  },
+  {
+    "text": "Airtel charged 2805 rs",
+    "label": "Bills"
+  },
+  {
+    "text": "1603 transferred",
+    "label": "Travel"
+  },
+  {
+    "text": "262 oRDER placed",
+    "label": "Other"
+  },
+  {
+    "text": "2325 subscRiptiOn credited 33252",
+    "label": "Food"
+  },
+  {
+    "text": "Paid ₹1161 to Ola",
+    "label": "Travel"
+  },
+  {
+    "text": "799 paid",
+    "label": "Food"
+  },
+  {
+    "text": "775 paid",
+    "label": "Bills"
+  },
+  {
+    "text": "2102 transferred",
+    "label": "Food"
+  },
+  {
+    "text": "Paid 1926 INR to Jio",
+    "label": "Bills"
+  },
+  {
+    "text": "3227 paid",
+    "label": "Bills"
+  },
+  {
+    "text": "Paid 3854 to Spotify",
+    "label": "Entertainment"
+  },
+  {
+    "text": "paid 2944 ONlIne",
+    "label": "Travel"
+  },
+  {
+    "text": "Spent 1588 rs at Airtel",
+    "label": "Bills"
+  },
+  {
+    "text": "4482 sent",
+    "label": "Food"
+  },
+  {
+    "text": "transaction completed 4667",
+    "label": "Food"
+  },
+  {
+    "text": "Paid ₹392 to Flipkart",
+    "label": "Entertainment"
+  },
+  {
+    "text": "1655 paid credited 34797",
+    "label": "Travel"
+  },
+  {
+    "text": "1134 transferred",
+    "label": "Food"
+  },
+  {
+    "text": "Zomato charged Rs 3854",
+    "label": "Food"
+  },
+  {
+    "text": "2656 order PLaced credited 94793",
+    "label": "Bills"
+  },
+  {
+    "text": "610 sent",
+    "label": "Other"
+  },
+  {
+    "text": "Spent ₹2404 at Spotify",
+    "label": "Other"
+  },
+  {
+    "text": "Rs 1355 debited",
+    "label": "Travel"
+  },
+  {
+    "text": "Paid 1971 rs to Netflix",
+    "label": "Entertainment"
+  },
+  {
+    "text": "3086 transferred debited 36992",
+    "label": "Food"
+  },
+  {
+    "text": "Paid 1559 to Uber",
+    "label": "Travel"
+  },
+  {
+    "text": "Spent 3049 rs at Spotify",
+    "label": "Food"
+  },
+  {
+    "text": "2704 sPeNt via uPi",
+    "label": "Shopping"
+  },
+  {
+    "text": "2319 subscriptiON DEbIteD 40824",
+    "label": "Travel"
+  },
+  {
+    "text": "transaction completed 935 success 92884",
+    "label": "Shopping"
+  },
+  {
+    "text": "Amazon charged Rs 1041",
+    "label": "Shopping"
+  },
+  {
+    "text": "1696 spEnt via upi",
+    "label": "Travel"
+  },
+  {
+    "text": "4167 rs payment successful txn id 39175",
+    "label": "Bills"
+  },
+  {
+    "text": "Spent 1043 at Amazon",
+    "label": "Shopping"
+  },
+  {
+    "text": "transaction completed 2178",
+    "label": "Entertainment"
+  },
+  {
+    "text": "Spent 3029 rs at Flipkart",
+    "label": "Shopping"
+  },
+  {
+    "text": "3954 subscripTiOn txn id 75359",
+    "label": "Other"
+  },
+  {
+    "text": "1736 ordER placed",
+    "label": "Travel"
+  },
+  {
+    "text": "2331 subScrIPTIoN succeSs 53524",
+    "label": "Food"
+  },
+  {
+    "text": "Spent 4007 rs at Zomato",
+    "label": "Food"
+  },
+  {
+    "text": "Paid 2251 rs to Spotify",
+    "label": "Shopping"
+  },
+  {
+    "text": "1836 sPenT viA Upi",
+    "label": "Shopping"
+  },
+  {
+    "text": "Netflix charged 4121",
+    "label": "Entertainment"
+  },
+  {
+    "text": "3212 order PlaceD",
+    "label": "Food"
+  },
+  {
+    "text": "Spent 3223 rs at Jio",
+    "label": "Bills"
+  },
+  {
+    "text": "Spent 2662 at Netflix",
+    "label": "Bills"
+  },
+  {
+    "text": "572 sent debited 72656",
+    "label": "Bills"
+  },
+  {
+    "text": "1330 cAb ride",
+    "label": "Travel"
+  },
+  {
+    "text": "3643 suBscRIptIon txn iD 61247",
+    "label": "Other"
+  },
+  {
+    "text": "Ola charged 3146 rs",
+    "label": "Shopping"
+  },
+  {
+    "text": "681 transferred",
+    "label": "Entertainment"
+  },
+  {
+    "text": "Airtel charged Rs 3512",
+    "label": "Other"
+  },
+  {
+    "text": "Paid ₹2901 to Uber",
+    "label": "Travel"
+  },
+  {
+    "text": "Airtel charged 1997",
+    "label": "Shopping"
+  },
+  {
+    "text": "3775 order PlacEd dEbited 69191",
+    "label": "Food"
+  },
+  {
+    "text": "Spent 4664 INR at Jio",
+    "label": "Food"
+  },
+  {
+    "text": "Paid 3577 to Amazon",
+    "label": "Shopping"
+  },
+  {
+    "text": "558 suBscriPtiOn uPi Ref 64001",
+    "label": "Other"
+  },
+  {
+    "text": "1627 INR payment successful",
+    "label": "Entertainment"
+  },
+  {
+    "text": "Spent 1354 rs at Amazon",
+    "label": "Entertainment"
+  },
+  {
+    "text": "4375 recharGE",
+    "label": "Other"
+  },
+  {
+    "text": "2820 sent credited 36498",
+    "label": "Travel"
+  },
+  {
+    "text": "2812 subScription",
+    "label": "Travel"
+  },
+  {
+    "text": "3748 payment succsesful success 85937",
+    "label": "Shopping"
+  },
+  {
+    "text": "paid 2486 OnlinE crEdited 73916",
+    "label": "Food"
+  },
+  {
+    "text": "PaId 3243 onLinE upi ReF 49706",
+    "label": "Entertainment"
+  },
+  {
+    "text": "951 bILl pAId upI Ref 10085",
+    "label": "Entertainment"
+  },
+  {
+    "text": "Spotify charged ₹626",
+    "label": "Entertainment"
+  },
+  {
+    "text": "Spent ₹1161 at Zomato",
+    "label": "Food"
+  },
+  {
+    "text": "paid 4744 OnlIne CrEDiteD 70368",
+    "label": "Food"
+  },
+  {
+    "text": "2551 paid",
+    "label": "Food"
+  },
+  {
+    "text": "Ola charged Rs 4760",
+    "label": "Food"
+  },
+  {
+    "text": "Spent ₹838 at Swiggy",
+    "label": "Shopping"
+  },
+  {
+    "text": "Jio charged ₹726",
+    "label": "Other"
+  },
+  {
+    "text": "2852 sPENt via uPi upI Ref 50372",
+    "label": "Entertainment"
+  },
+  {
+    "text": "Paid 2122 to Netflix",
+    "label": "Entertainment"
+  },
+  {
+    "text": "Swiggy charged 2908 rs",
+    "label": "Shopping"
+  },
+  {
+    "text": "Paid 4412 INR to Jio",
+    "label": "Shopping"
+  },
+  {
+    "text": "4335 Cab rIde txn id 98935",
+    "label": "Entertainment"
+  },
+  {
+    "text": "Spent 3926 INR at Jio",
+    "label": "Entertainment"
+  },
+  {
+    "text": "Spent 4849 rs at Netflix",
+    "label": "Entertainment"
+  },
+  {
+    "text": "4829 cab ride SucCEss 22557",
+    "label": "Other"
+  },
+  {
+    "text": "781 spent vIa upI crediteD 40141",
+    "label": "Bills"
+  },
+  {
+    "text": "Spent 1748 rs at Airtel",
+    "label": "Bills"
+  },
+  {
+    "text": "transaction completed 3501 credited 75508",
+    "label": "Other"
+  },
+  {
+    "text": "Airtel charged 3502",
+    "label": "Other"
+  },
+  {
+    "text": "Spotify charged 947 INR",
+    "label": "Entertainment"
+  }
+]
