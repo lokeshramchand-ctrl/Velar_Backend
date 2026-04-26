@@ -1,6 +1,4 @@
 
-
-!
 # **Problem**
 
 Managing personal finances is harder than it should be. Most people stop tracking their expenses because:
