@@ -1,13 +1,28 @@
-from flask import Flask, request, jsonify
+import os
+import re
 import joblib
 import numpy as np
-import re
 
-from AI.rules.transaction_rules import get_category_from_rules
+from flask import Flask, request, jsonify
 
-# Load models
-model = joblib.load("model/category_model.pkl")
-vectorizer = joblib.load("model/vectorizer.pkl")
+# ---------- PATH HANDLING (IMPORTANT) ----------
+
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+
+MODEL_PATH = os.path.join(BASE_DIR, "..", "research", "artifacts", "category_model.pkl")
+VECTORIZER_PATH = os.path.join(BASE_DIR, "..", "research", "artifacts", "vectorizer.pkl")
+RULES_PATH = os.path.join(BASE_DIR, "..")
+
+# Add parent directory to path for imports
+import sys
+sys.path.append(RULES_PATH)
+
+from transaction_rules import get_category_from_rules
+
+# ---------- LOAD MODELS ----------
+
+model = joblib.load(MODEL_PATH)
+vectorizer = joblib.load(VECTORIZER_PATH)
 
 app = Flask(__name__)
 
@@ -19,7 +34,6 @@ def extract_amount(text):
 
 
 def extract_merchant(text):
-    # simple heuristic baseline
     words = text.lower().split()
 
     stopwords = {"paid", "to", "at", "for", "on", "spent", "rs", "inr"}
@@ -46,11 +60,11 @@ def predict():
     category = get_category_from_rules(text)
 
     if category:
-        confidence = 0.95  # rules are high confidence
+        confidence = 0.95
     else:
-        # ---- ML classification ----
         X = vectorizer.transform([text])
         probs = model.predict_proba(X)[0]
+
         prediction = model.classes_[np.argmax(probs)]
         confidence = float(np.max(probs))
 
