@@ -1,84 +1,47 @@
+const service = require("../services/transactionService");
 
-const Transaction = require('../models/Transaction');
-const axios = require('axios');
-
-/* ---------- SERVICE ---------- */
-async function predict(text) {
-  const res = await axios.post(
-    `http://${process.env.PREDICT_API_HOST}/api/predict`,
-    { text }
-  );
-  return res.data;
-}
-
-
-
-exports.createTransaction = async (req, res) => {
+exports.addTransaction = async (req, res) => {
   try {
-    const { text, source = 'manual' } = req.body;
+    const { text, source } = req.body;
 
-    if (!text) {
-      return res.status(400).json({ error: 'Text is required' });
-    }
+    if (!text) return res.status(400).json({ error: "Text required" });
 
-    const prediction = await predict(text);
+    const txn = await service.createTransaction({ text, source });
 
-    const transaction = new Transaction({
-      text,
-      amount: prediction.amount,
-      merchant: prediction.merchant,
-      category: prediction.category || 'Other',
-      confidence: prediction.confidence,
-      source
-    });
-
-    await transaction.save();
-
-    res.json({ success: true, data: transaction });
-
+    res.json({ success: true, data: txn });
   } catch (err) {
     res.status(500).json({ error: err.message });
   }
 };
 
-/**
- * Get all transactions (dataset view)
- */
-exports.getTransactions = async (req, res) => {
+exports.feedback = async (req, res) => {
   try {
-    const data = await Transaction.find().sort({ date: -1 });
+    const { id, correctedCategory } = req.body;
+
+    if (!id || !correctedCategory)
+      return res.status(400).json({ error: "Invalid input" });
+
+    const txn = await service.updateFeedback(id, correctedCategory);
+
+    res.json({ success: true, data: txn });
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
+};
+
+exports.getAll = async (req, res) => {
+  try {
+    const data = await service.getTransactions();
     res.json({ success: true, data });
   } catch (err) {
     res.status(500).json({ error: err.message });
   }
 };
 
-/**
- * Predict only (no DB write)
- */
-exports.predictOnly = async (req, res) => {
+exports.getRecent = async (req, res) => {
   try {
-    const { text } = req.body;
-
-    if (!text) {
-      return res.status(400).json({ error: 'Text is required' });
-    }
-
-    const result = await predict(text);
-    res.json(result);
-
-  } catch (err) {
-    res.status(500).json({ error: err.message });
-  }
-};
-
-/**
- * Export dataset (for training/evaluation)
- */
-exports.exportDataset = async (req, res) => {
-  try {
-    const data = await Transaction.find();
-    res.json({ count: data.length, data });
+    const data = await service.getRecent();
+    res.json({ success: true, data });
   } catch (err) {
     res.status(500).json({ error: err.message });
   }

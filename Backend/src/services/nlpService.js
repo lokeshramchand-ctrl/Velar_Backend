@@ -1,11 +1,16 @@
-const axios = require('axios');
+const axios = require("axios");
 
-exports.predictCategory = async (description) => {
+const predictCategory = async (text) => {
   try {
-    const res = await axios.post('http://192.168.1.40:5000/api/predict', { description });
-    return res.data.category || 'Other';
+    const res = await axios.post(process.env.PREDICT_API_URL, {
+      description: text
+    });
+
+    return res.data;
   } catch (err) {
-    console.error('NLP Service Error:', err.message);
-    return 'Other';
+    console.error("NLP Error:", err.message);
+    return { category: "Other" };
   }
 };
+
+module.exports = { predictCategory };
