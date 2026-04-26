@@ -1,23 +1,25 @@
 const express = require('express');
 const router = express.Router();
-const { exec } = require('child_process');
+const axios = require('axios');
 
-router.post('/', (req, res) => {
-  const description = req.body.description;
+router.post('/', async (req, res) => {
+  try {
+    const { description } = req.body;
 
-  exec(`python predict.py "${description}"`, (error, stdout, stderr) => {
-    if (error) {
-      console.error(`Error: ${error.message}`);
-      return res.status(500).send('Prediction failed');
-    }
-    if (stderr) {
-      console.error(`Stderr: ${stderr}`);
-      return res.status(500).send('Python error');
+    if (!description) {
+      return res.status(400).json({ error: 'Description required' });
     }
 
-    const prediction = stdout.trim();
-    res.json({ category: prediction });
-  });
+    const response = await axios.post(process.env.PREDICT_API_URL, {
+      description
+    });
+
+    return res.json(response.data);
+
+  } catch (error) {
+    console.error("Prediction error:", error.message);
+    return res.status(500).json({ error: 'Prediction failed' });
+  }
 });
 
 module.exports = router;
