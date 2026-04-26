@@ -1,65 +1,49 @@
-# ----------------------
-# General ignores
-# ----------------------
 
-# Ignore any environment files with .env extensions globally
-*.env
+# --------------------
+# Python / Env
+# --------------------
+.venv/
+__pycache__/
+*.pyc
 
-# Ignore markdown files if you want (usually you keep .md, so exclude these lines if you want to track docs)
-# *.md
+# --------------------
+# ML Models (VERY IMPORTANT)
+# --------------------
+AI/bert_model/
+AI/bert_results/
+AI/checkpoints/
+*.safetensors
+*.pt
+*.bin
+*.ckpt
 
-# ----------------------
-# Backend specific ignores
-# ----------------------
+# --------------------
+# Datasets (optional but recommended)
+# --------------------
+AI/final_dataset*.json
+AI/simple_data.json
+AI/test_split.json
 
-# Ignore backend env file explicitly
-Backend/.env
-
-# Node modules and logs (optional in root if only backend uses node)
-# If Backend/.gitignore already has node_modules, this can be omitted here
-# Backend/node_modules/
-# Backend/logs/
-
-# ----------------------
-# Frontend specific ignores
-# ----------------------
-
-# Dart/Flutter environment config to ignore
-Frontend/lib/other_pages/enviroment.dart
-
-# Flutter build folders
-Frontend/.dart_tool/
-Frontend/build/
-Frontend/.packages
-Frontend/.flutter-plugins
-Frontend/.flutter-plugins-dependencies
-Frontend/.idea/
-Frontend/ios/Pods/
-Frontend/pubspec.lock
-
-# Android specific (sometimes frontend has android/ folder)
-Frontend/android/.gradle/
-Frontend/android/app/build/
-Frontend/instructions.txt
-
-# ----------------------
-# IDE and OS files
-# ----------------------
-
-# VSCode settings folder
-.vscode/
-
-# macOS
-.DS_Store
-
-# Linux
-*~
-
-# Windows
-Thumbs.db
-ehthumbs.db
-
-# ----------------------
-# Logs
-# ----------------------
+# --------------------
+# Outputs / logs
+# --------------------
+*.csv
+*.json
 *.log
+
+# --------------------
+# Pickles / vectorizers
+# --------------------
+*.pkl
+
+# --------------------
+# Environment variables
+# --------------------
+.env
+Backend/.env
+AI/.env
+
+# --------------------
+# OS / misc
+# --------------------
+.DS_Store
